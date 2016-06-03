@@ -41,7 +41,7 @@ This book is a set of recipes grouped by topic that acts as a good reference to 
 
 ###[Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
 
-<img src="https://imagery.pragprog.com/products/430/cmelixir_xlargecover.jpg?1415371472" width="120px"/>
+<img src="http://elixir-lang.org/images/learning/metaprogramming-elixir.jpg" width="120px"/>
 
 Write code that writes code with Elixir macros. Macros make metaprogramming possible and define the language itself. In this book, you’ll learn how to use macros to extend the language with fast, maintainable code and share functionality in ways you never thought possible. You’ll discover how to extend Elixir with your own first-class features, optimize performance, and create domain-specific languages.
 
