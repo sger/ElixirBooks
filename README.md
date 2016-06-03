@@ -63,6 +63,12 @@ Elixir, based on Erlang’s virtual machine and ecosystem, makes it easier to ac
 
 Write code that writes code with Elixir macros. Macros make metaprogramming possible and define the language itself. In this book, you’ll learn how to use macros to extend the language with fast, maintainable code and share functionality in ways you never thought possible. You’ll discover how to extend Elixir with your own first-class features, optimize performance, and create domain-specific languages.
 
+###[Designing for Scalability with Erlang/OTP](http://shop.oreilly.com/product/0636920024149.do)
+
+<img src="http://akamaicovers.oreilly.com/images/0636920024149/lrg.jpg" width="120px"/>
+
+If you need to build a scalable, fault tolerant system with requirements for high availability, discover why the Erlang/OTP platform stands out for the breadth, depth, and consistency of its features. This hands-on guide demonstrates how to use the Erlang programming language and its OTP framework of reusable libraries, tools, and design principles to develop complex commercial-grade systems that simply cannot fail.
+
 **Web Development**
 ---
 
