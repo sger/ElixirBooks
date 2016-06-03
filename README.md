@@ -30,6 +30,12 @@ Elixir is an excellent language if you want to learn about functional programmin
 
 In this book, you will find descriptions of programs that you can write in Elixir. The programs will usually be short, and each one has been designed to provide practice material for a particular Elixir programming concept. These programs have not been designed to be of considerable difficulty, though they may ask you to stretch a bit beyond the immediate material and examples that you find in the book Introducing Elixir.
 
+###[Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook)
+
+<img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/3964_Elixir%20Cookbook_Cover_1.jpg" width="120px"/>
+
+This book is a set of recipes grouped by topic that acts as a good reference to get ideas from or to quickly search for a solution to a problem. You will begin by launching an IEx session and using it to test some ideas. Next, you will perform various operations like loading and compiling modules, inspecting your system, generating a supervised app, and so on. Furthermore, you will be introduced to immutability, working with data structures, performing pattern matching, and using stream modules to generate infinite data sequences. You will learn about everything from joining strings to determining the word frequency in text. With respect to modules and functions, you will also discover how to load code from other modules and use guards and pattern matching in functions.
+
 **Advanced Books**
 ---
 
