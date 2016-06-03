@@ -67,7 +67,10 @@ Write code that writes code with Elixir macros. Macros make metaprogramming poss
 Don’t accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator José Valim, and award-winning author Bruce Tate walk you through building an application that’s fast and reliable. At every step, you’ll learn from the Phoenix creators not just what to do, but why. Packed with insider insights, this definitive guide will be your constant companion in your journey from Phoenix novice to expert, as you build the next generation of web applications.
 
 **Resources**
----
+====
+
+###[Elixir Sips](http://elixirsips.com)
+###[ExCasts](https://excasts.com)
 
 Contributing
 ====
