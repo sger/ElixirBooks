@@ -42,6 +42,12 @@ This book is a set of recipes grouped by topic that acts as a good reference to 
 
 Elixir in Action teaches you to apply the new Elixir programming language to practical problems associated with scalability, concurrency, fault tolerance, and high availability.
 
+###[The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
+
+<img src="https://images.manning.com/255/340/resize/book/b/652215c-a8c9-42a1-b04f-264846c99cc5/ElixirOTP_hires_meap.png" width="120px"/>
+
+The Little Elixir & OTP Guidebook gets you started programming applications with Elixir and OTP. You begin with a quick overview of the Elixir language syntax, along with just enough functional programming to use it effectively. Then, you'll dive straight into OTP and learn how it helps you build scalable, fault-tolerant and distributed applications through several fun examples. Come rediscover the joy of programming with Elixir and remember how it feels like to be a beginner again.
+
 **Advanced Books**
 ---
 
