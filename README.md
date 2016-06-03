@@ -36,6 +36,12 @@ In this book, you will find descriptions of programs that you can write in Elixi
 
 This book is a set of recipes grouped by topic that acts as a good reference to get ideas from or to quickly search for a solution to a problem. You will begin by launching an IEx session and using it to test some ideas. Next, you will perform various operations like loading and compiling modules, inspecting your system, generating a supervised app, and so on. Furthermore, you will be introduced to immutability, working with data structures, performing pattern matching, and using stream modules to generate infinite data sequences. You will learn about everything from joining strings to determining the word frequency in text. With respect to modules and functions, you will also discover how to load code from other modules and use guards and pattern matching in functions.
 
+###[Elixir in Action](https://www.manning.com/books/elixir-in-action)
+
+<img src="https://images.manning.com/255/340/resize/book/5/2e8efb1-9e6f-462c-9487-04eac07ea623/juric.png" width="120px"/>
+
+Elixir in Action teaches you to apply the new Elixir programming language to practical problems associated with scalability, concurrency, fault tolerance, and high availability.
+
 **Advanced Books**
 ---
 
