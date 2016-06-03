@@ -48,6 +48,12 @@ Elixir in Action teaches you to apply the new Elixir programming language to pra
 
 The Little Elixir & OTP Guidebook gets you started programming applications with Elixir and OTP. You begin with a quick overview of the Elixir language syntax, along with just enough functional programming to use it effectively. Then, you'll dive straight into OTP and learn how it helps you build scalable, fault-tolerant and distributed applications through several fun examples. Come rediscover the joy of programming with Elixir and remember how it feels like to be a beginner again.
 
+###[Learning Elixir](https://www.packtpub.com/application-development/learning-elixir)
+
+<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B04907_MockupCover_Normal.jpg" width="120px"/>
+
+Elixir, based on Erlang’s virtual machine and ecosystem, makes it easier to achieve scalability, concurrency, fault tolerance, and high availability goals that are pursued by developers using any programming language or programming paradigm. Elixir is a modern programming language that utilizes the benefits offered by Erlang VM without really incorporating the complex syntaxes of Erlang.
+
 **Advanced Books**
 ---
 
@@ -71,6 +77,7 @@ Don’t accept the compromise between fast and beautiful: you can have it all. P
 
 ###[Elixir Sips](http://elixirsips.com)
 ###[ExCasts](https://excasts.com)
+###[LearnElixir.tv](https://www.learnelixir.tv/)
 
 Contributing
 ====
