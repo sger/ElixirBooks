@@ -26,7 +26,7 @@ Elixir is an excellent language if you want to learn about functional programmin
 
 Contributing
 ====
-Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules](https://github.com/sger/ElixirBooks/blob/master/CONTRIBUTING.md)!
 
 License
 ====
