@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sger/ElixirBooks.svg?branch=master)](https://travis-ci.org/sger/ElixirBooks)
+[![Build Status](https://api.travis-ci.org/sger/ElixirBooks.svg?branch=master)](https://travis-ci.org/sger/ElixirBooks)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Elixir Books
 ====
@@ -94,6 +94,12 @@ Erlang and OTP in Action teaches you the concepts of concurrent programming and 
 <img src="http://ecx.images-amazon.com/images/I/41IbWEBsjbL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
 A multi-user game, web site, cloud application, or networked database can have thousands of users all interacting at the same time. You need a powerful, industrial-strength tool to handle the really hard problems inherent in parallel, concurrent environments. You need Erlang. In this second edition of the bestselling Programming Erlang, you’ll learn how to write parallel programs that scale effortlessly on multicore systems.
+
+###[Erlang In Anger](http://www.erlang-in-anger.com/)
+
+<img src="https://s3.amazonaws.com/erlang-in-anger/book-cover.png" width="120px"/>
+
+This book intends to be a little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang.
 
 **Web Development**
 ---
