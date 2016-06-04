@@ -1,4 +1,6 @@
-Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Elixir Books 
+[![Build Status](https://travis-ci.org/sger/ElixirBooks.svg?branch=master)](https://travis-ci.org/sger/ElixirBooks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
