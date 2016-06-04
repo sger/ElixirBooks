@@ -40,7 +40,7 @@ This book is a set of recipes grouped by topic that acts as a good reference to 
 
 <img src="https://images.manning.com/255/340/resize/book/5/2e8efb1-9e6f-462c-9487-04eac07ea623/juric.png" width="120px"/>
 
-Elixir in Action teaches you to apply the new Elixir programming language to practical problems associated with scalability, concurrency, fault tolerance, and high availability.
+Elixir in Action teaches you how to solve practical problems of scalability, concurrency, fault tolerance, and high availability using Elixir. You'll start with the language, learning basic constructs and building blocks. Then, you'll learn to think about problems using Elixir's functional programming mindset. With that solid foundation, you'll confidently explore Elixir's seamless integration with BEAM and Erlang's powerful OTP framework of battle-tested abstractions you can use immediately. Finally, the book provides guidance on how to distribute a system over multiple machines and control it in production.
 
 ###[The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
 
