@@ -116,6 +116,7 @@ Don’t accept the compromise between fast and beautiful: you can have it all. P
 ###[Exercism.io](http://exercism.io/languages/elixir)
 ###[Functional Elixir Newsletter](http://newsletter.elixir-devs.com)
 ###[Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
+###[Elixir Koans](http://elixirkoans.io)
 
 Contributing
 ====
