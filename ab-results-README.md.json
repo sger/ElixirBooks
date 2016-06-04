@@ -1,7 +1,7 @@
 {
-  "date": "2016-06-04 16:47:56 +0300",
+  "date": "2016-06-04 16:50:52 +0300",
   "links": [
-    "https://api.travis-ci.org/sger/ElixirBooks.svg?branch=master",
+    "https://travis-ci.org/sger/ElixirBooks.svg?branch=master",
     "https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg",
     "https://github.com/sindresorhus/awesome",
     "http://elixirschool.com/",
@@ -50,23 +50,41 @@
     "http://creativecommons.org/licenses/by/4.0/"
   ],
   "issues": [
-
+    {
+      "url": "https://travis-ci.org/sger/ElixirBooks.svg?branch=master",
+      "status": 301,
+      "error": null,
+      "headers": {
+        "server": "Cowboy",
+        "date": "Sat, 04 Jun 2016 13:50:48 GMT",
+        "connection": "keep-alive",
+        "content-type": "text/html;charset=utf-8",
+        "location": "https://api.travis-ci.org/sger/ElixirBooks.svg?branch=master",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "content-length": "0",
+        "via": "1.1 vegur"
+      },
+      "loc": 1
+    }
   ],
   "all": [
     {
-      "url": "http://akamaicovers.oreilly.com/images/0636920030584/cat.gif",
+      "url": "http://elixir-lang.org/images/learning/elixir-school.jpg",
       "status": 200,
       "error": null,
       "headers": {
-        "server": "Apache",
+        "server": "GitHub.com",
+        "date": "Sat, 04 Jun 2016 13:50:47 GMT",
+        "content-type": "image/jpeg",
+        "content-length": "11756",
+        "last-modified": "Thu, 02 Jun 2016 08:12:20 GMT",
+        "access-control-allow-origin": "*",
+        "expires": "Sat, 04 Jun 2016 14:00:47 GMT",
+        "cache-control": "max-age=600",
         "accept-ranges": "bytes",
-        "last-modified": "Fri, 14 Mar 2014 18:51:56 GMT",
-        "content-length": "13296",
-        "content-type": "image/gif",
-        "cache-control": "max-age=2296230",
-        "expires": "Fri, 01 Jul 2016 03:38:23 GMT",
-        "date": "Sat, 04 Jun 2016 13:47:53 GMT",
-        "connection": "keep-alive"
+        "x-github-request-id": "C2DB8DB6:3614:187D07B:5752DCB7"
       }
     },
     {
@@ -74,7 +92,7 @@
       "status": 200,
       "error": null,
       "headers": {
-        "date": "Sat, 04 Jun 2016 13:47:53 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:48 GMT",
         "content-type": "image/svg+xml;charset=utf-8",
         "transfer-encoding": "chunked",
         "connection": "keep-alive",
@@ -90,20 +108,40 @@
       }
     },
     {
-      "url": "http://elixir-lang.org/images/learning/elixir-school.jpg",
+      "url": "http://akamaicovers.oreilly.com/images/0636920030584/cat.gif",
       "status": 200,
       "error": null,
       "headers": {
-        "server": "GitHub.com",
-        "date": "Sat, 04 Jun 2016 13:47:53 GMT",
-        "content-type": "image/jpeg",
-        "content-length": "11756",
-        "last-modified": "Thu, 02 Jun 2016 08:12:20 GMT",
-        "access-control-allow-origin": "*",
-        "expires": "Sat, 04 Jun 2016 13:57:53 GMT",
-        "cache-control": "max-age=600",
+        "server": "Apache",
         "accept-ranges": "bytes",
-        "x-github-request-id": "C2DB8DB6:3614:186775D:5752DC09"
+        "last-modified": "Fri, 14 Mar 2014 18:51:56 GMT",
+        "content-length": "13296",
+        "content-type": "image/gif",
+        "cache-control": "max-age=2296055",
+        "expires": "Fri, 01 Jul 2016 03:38:23 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:48 GMT",
+        "connection": "keep-alive"
+      }
+    },
+    {
+      "url": "http://chimera.labs.oreilly.com/books/1234000001642",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "server": "Cowboy",
+        "connection": "keep-alive",
+        "date": "Sat, 04 Jun 2016 13:50:48 GMT",
+        "status": "200 OK",
+        "content-type": "text/html; charset=utf-8",
+        "content-length": "8727",
+        "x-ua-compatible": "IE=Edge,chrome=1",
+        "etag": "\"6d75de0b386d62512819c8135e0c0d7d\"",
+        "cache-control": "max-age=0, private, must-revalidate",
+        "set-cookie": "_chimera_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTJhOWY4NzFlMmI3YjhhN2ZiYzBhMTYzZGI3ZWZjZDE3BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMTdsckNVeUpDUCtHdTZ4SmhKUE11VmxNV0xsZWpHWm4vbFU1T2l1YUc0Znc9BjsARkkiEXByZXZpb3VzX3VybAY7AEYiGS9ib29rcy8xMjM0MDAwMDAxNjQy--b2cbd524ae0cbc2144d9c33b92bc5eb168961fd7; path=/; HttpOnly",
+        "x-request-id": "62b110c2-c812-4fb2-9715-633e40e8a540",
+        "x-runtime": "0.016565",
+        "x-rack-cache": "miss",
+        "via": "1.1 vegur"
       }
     },
     {
@@ -111,15 +149,76 @@
       "status": 200,
       "error": null,
       "headers": {
-        "date": "Sat, 04 Jun 2016 13:47:53 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:48 GMT",
         "content-type": "text/html",
         "transfer-encoding": "chunked",
         "connection": "keep-alive",
-        "set-cookie": "__cfduid=dd0341f1518e58a1894752027f4eae7af1465048073; expires=Sun, 04-Jun-17 13:47:53 GMT; path=/; domain=.elixirschool.com; HttpOnly",
+        "set-cookie": "__cfduid=d17dcb629db8ad8b2e1803c37e05f3cee1465048248; expires=Sun, 04-Jun-17 13:50:48 GMT; path=/; domain=.elixirschool.com; HttpOnly",
         "last-modified": "Fri, 03 Jun 2016 15:01:32 GMT",
         "via": "1.1 vegur",
         "server": "cloudflare-nginx",
-        "cf-ray": "2adbd6da39f14008-SOF"
+        "cf-ray": "2adbdb1f56844020-SOF"
+      }
+    },
+    {
+      "url": "https://www.packtpub.com/application-development/elixir-cookbook",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "server": "nginx/1.4.5",
+        "date": "Sat, 04 Jun 2016 13:50:59 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "cache-control": "public, s-maxage=172800",
+        "age": "63494",
+        "via": "1.1 varnish",
+        "x-country-code": "GR"
+      }
+    },
+    {
+      "url": "https://travis-ci.org/sger/ElixirBooks.svg?branch=master",
+      "status": 301,
+      "error": null,
+      "headers": {
+        "server": "Cowboy",
+        "date": "Sat, 04 Jun 2016 13:50:48 GMT",
+        "connection": "keep-alive",
+        "content-type": "text/html;charset=utf-8",
+        "location": "https://api.travis-ci.org/sger/ElixirBooks.svg?branch=master",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN",
+        "content-length": "0",
+        "via": "1.1 vegur"
+      },
+      "loc": 1
+    },
+    {
+      "url": "https://github.com/sindresorhus/awesome",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "server": "GitHub.com",
+        "date": "Sat, 04 Jun 2016 13:50:48 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "transfer-encoding": "chunked",
+        "status": "200 OK",
+        "cache-control": "no-cache",
+        "vary": "X-PJAX, Accept-Encoding",
+        "x-ua-compatible": "IE=Edge,chrome=1",
+        "set-cookie": "_octo=GH1.1.607863474.1465048248; domain=.github.com; path=/; expires=Mon, 04 Jun 2018 13:50:48 -0000, logged_in=no; domain=.github.com; path=/; expires=Wed, 04 Jun 2036 13:50:48 -0000; secure; HttpOnly, _gh_sess=eyJzZXNzaW9uX2lkIjoiMTgzNWIzMjIxMDk4ODkzN2U4YzU0MjhjMWI1YzA3MzQiLCJzcHlfcmVwbyI6InNpbmRyZXNvcmh1cy9hd2Vzb21lIiwic3B5X3JlcG9fYXQiOjE0NjUwNDgyNDgsIl9jc3JmX3Rva2VuIjoiTTF1RWVHMHpnYWlQV01BZlc3cEVMaWZxdE53UnRXYjRqWTYrS0E1c3hHdz0iLCJmbGFzaCI6eyJkaXNjYXJkIjpbImFuYWx5dGljc19sb2NhdGlvbiJdLCJmbGFzaGVzIjp7ImFuYWx5dGljc19sb2NhdGlvbiI6Ii88dXNlci1uYW1lPi88cmVwby1uYW1lPiJ9fX0%3D--7fb791a5c3df1b4c62eb04bf639189bfc26f8e4f; path=/; secure; HttpOnly",
+        "x-request-id": "5099603478a44dc7fe38ed9075890c7a",
+        "x-runtime": "0.054875",
+        "content-security-policy": "default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src render.githubusercontent.com; connect-src 'self' uploads.github.com status.github.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com wss://live.github.com; font-src assets-cdn.github.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: assets-cdn.github.com identicons.github.com www.google-analytics.com collector.githubapp.com *.gravatar.com *.wp.com *.githubusercontent.com; media-src 'none'; object-src assets-cdn.github.com; plugin-types application/x-shockwave-flash; script-src assets-cdn.github.com; style-src 'unsafe-inline' assets-cdn.github.com",
+        "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+        "public-key-pins": "max-age=5184000; pin-sha256=\"WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=\"; pin-sha256=\"RRM1dGqnDFsCJXBTHky16vi1obOlCgFFn/yOhI/y+ho=\"; pin-sha256=\"k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws=\"; pin-sha256=\"K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q=\"; pin-sha256=\"IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4=\"; pin-sha256=\"iie1VXtL7HzAMF+/PVPR9xzT80kQxdZeJ+zduCB3uj0=\"; pin-sha256=\"LvRiGEjRqfzurezaWuj8Wie2gyHMrW5Q06LspMnox7A=\"; includeSubDomains",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "deny",
+        "x-xss-protection": "1; mode=block",
+        "x-served-by": "353c3e3783cd5fa717715b8bdf83c23b",
+        "x-github-request-id": "C2DB8DB6:682A:152A487:5752DCB8"
       }
     },
     {
@@ -137,89 +236,10 @@
         "expires": "Thu, 31 Dec 2037 23:55:55 GMT",
         "cache-control": "max-age=315360000, public",
         "accept-ranges": "bytes",
-        "age": "2126",
+        "age": "2301",
         "x-cache": "Hit from cloudfront",
-        "via": "1.1 931dc2a027a2dae7db58af3b374d9571.cloudfront.net (CloudFront)",
-        "x-amz-cf-id": "f0mOVcIQXJwxzw4KSZ2x7oSIsfy5S9-X6GP-PeapgVg08QD6MDEtRw=="
-      }
-    },
-    {
-      "url": "http://chimera.labs.oreilly.com/books/1234000001642",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "server": "Cowboy",
-        "connection": "keep-alive",
-        "date": "Sat, 04 Jun 2016 13:47:53 GMT",
-        "status": "200 OK",
-        "content-type": "text/html; charset=utf-8",
-        "content-length": "8728",
-        "x-ua-compatible": "IE=Edge,chrome=1",
-        "etag": "\"ac4a5cc7e2d0a2e1dfb5d15ce1008826\"",
-        "cache-control": "max-age=0, private, must-revalidate",
-        "set-cookie": "_chimera_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJTA3ZTVmNmVkM2Y3ZGVhZWUyYmU2NmM3NGE1MzJiNWE5BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMU9ZdER2cjU1WUJmQnl5cWNCYjRQSHd1UXZ6SlpWR0FHWERhbS91ek5ydFk9BjsARkkiEXByZXZpb3VzX3VybAY7AEYiGS9ib29rcy8xMjM0MDAwMDAxNjQy--76cf74d95bd8b1b741f81637a4e2bb023bada271; path=/; HttpOnly",
-        "x-request-id": "63427dca-d80c-4c08-802c-c113863fbe3e",
-        "x-runtime": "0.045111",
-        "x-rack-cache": "miss",
-        "via": "1.1 vegur"
-      }
-    },
-    {
-      "url": "https://github.com/sindresorhus/awesome",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "server": "GitHub.com",
-        "date": "Sat, 04 Jun 2016 13:47:53 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "transfer-encoding": "chunked",
-        "status": "200 OK",
-        "cache-control": "no-cache",
-        "vary": "X-PJAX, Accept-Encoding",
-        "x-ua-compatible": "IE=Edge,chrome=1",
-        "set-cookie": "_octo=GH1.1.283118164.1465048073; domain=.github.com; path=/; expires=Mon, 04 Jun 2018 13:47:53 -0000, logged_in=no; domain=.github.com; path=/; expires=Wed, 04 Jun 2036 13:47:53 -0000; secure; HttpOnly, _gh_sess=eyJzZXNzaW9uX2lkIjoiYmEyOTg3OTBlYmI2ZDU2YmFhZDk2OTM1NjgxOTI2ZDAiLCJzcHlfcmVwbyI6InNpbmRyZXNvcmh1cy9hd2Vzb21lIiwic3B5X3JlcG9fYXQiOjE0NjUwNDgwNzMsIl9jc3JmX3Rva2VuIjoiZE82N1FsNVJKRFlNejJNaDlJNk5lTDdET1ZLMHR4RWpOMGlrWVE0bHRCND0iLCJmbGFzaCI6eyJkaXNjYXJkIjpbImFuYWx5dGljc19sb2NhdGlvbiJdLCJmbGFzaGVzIjp7ImFuYWx5dGljc19sb2NhdGlvbiI6Ii88dXNlci1uYW1lPi88cmVwby1uYW1lPiJ9fX0%3D--7df2c9a401e7c9d5e93b6988d4f31ec54756574d; path=/; secure; HttpOnly",
-        "x-request-id": "f0e8bf6c218236219bb3356b60fa8c73",
-        "x-runtime": "0.048576",
-        "content-security-policy": "default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src render.githubusercontent.com; connect-src 'self' uploads.github.com status.github.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com wss://live.github.com; font-src assets-cdn.github.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: assets-cdn.github.com identicons.github.com www.google-analytics.com collector.githubapp.com *.gravatar.com *.wp.com *.githubusercontent.com; media-src 'none'; object-src assets-cdn.github.com; plugin-types application/x-shockwave-flash; script-src assets-cdn.github.com; style-src 'unsafe-inline' assets-cdn.github.com",
-        "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
-        "public-key-pins": "max-age=5184000; pin-sha256=\"WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=\"; pin-sha256=\"RRM1dGqnDFsCJXBTHky16vi1obOlCgFFn/yOhI/y+ho=\"; pin-sha256=\"k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws=\"; pin-sha256=\"K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q=\"; pin-sha256=\"IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4=\"; pin-sha256=\"iie1VXtL7HzAMF+/PVPR9xzT80kQxdZeJ+zduCB3uj0=\"; pin-sha256=\"LvRiGEjRqfzurezaWuj8Wie2gyHMrW5Q06LspMnox7A=\"; includeSubDomains",
-        "x-content-type-options": "nosniff",
-        "x-frame-options": "deny",
-        "x-xss-protection": "1; mode=block",
-        "x-served-by": "926b734ea1992f8ee1f88ab967a93dac",
-        "x-github-request-id": "C2DB8DB6:682B:19A25B2:5752DC09"
-      }
-    },
-    {
-      "url": "https://api.travis-ci.org/sger/ElixirBooks.svg?branch=master",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "connection": "keep-alive",
-        "server": "nginx",
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
-        "content-type": "image/svg+xml",
-        "content-length": "357",
-        "status": "200 OK",
-        "access-control-allow-origin": "*",
-        "access-control-allow-credentials": "true",
-        "access-control-expose-headers": "Content-Type, Cache-Control, Expires, Etag, Last-Modified",
-        "strict-transport-security": "max-age=31536000",
-        "x-endpoint": "Travis::Api::App::Endpoint::Repos",
-        "x-pattern": "/:owner_name/:name",
-        "x-oauth-scopes": "public",
-        "x-accepted-oauth-scopes": "public",
-        "vary": "Accept,Accept-Encoding",
-        "cache-control": "no-cache",
-        "etag": "\"8e88a07245b843d6953029da01ef764c\"",
-        "pragma": "no-cache",
-        "expires": "Sat, 04 Jun 2016 13:47:54 GMT",
-        "content-disposition": "inline; filename=\"passing.svg\"",
-        "last-modified": "Sat, 04 Jun 2016 12:39:46 GMT",
-        "x-content-digest": "ce2a86190ac28dbd0712a062e33a37ecaf534268",
-        "age": "0",
-        "x-rack-cache": "miss, store",
-        "via": "1.1 vegur"
+        "via": "1.1 6ed32821244f98865b8d2952067f0d2a.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "MmSdmm6dVhKa57sliasFkda0YDqmYqIXYsPrt88LeWL_URUEG7bwMg=="
       }
     },
     {
@@ -231,16 +251,16 @@
         "content-type": "text/html;charset=UTF-8",
         "server": "Apache",
         "x-powered-by": "JSP/2.1",
-        "x-iinfo": "4-5750604-5772416 NNNN CT(178 -1 0) RT(1465047201311 871257) q(0 0 2 0) r(4 4) U2",
+        "x-iinfo": "4-5750604-5776674 NNNN CT(179 -1 0) RT(1465047201311 1046130) q(0 0 2 -1) r(4 4) U2",
         "x-cdn": "Incapsula",
         "vary": "Accept-Encoding",
-        "expires": "Sat, 04 Jun 2016 13:47:54 GMT",
+        "expires": "Sat, 04 Jun 2016 13:50:48 GMT",
         "cache-control": "max-age=0, no-cache, no-store",
         "pragma": "no-cache",
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:48 GMT",
         "transfer-encoding": "chunked",
         "connection": "keep-alive, Transfer-Encoding",
-        "set-cookie": "customer=none; Domain=.oreilly.com; Expires=Mon, 18-Jun-2018 13:47:53 GMT; Path=/, basket=none; Domain=.oreilly.com; Expires=Sat, 18-Jun-2016 13:47:53 GMT; Path=/, abtest=null; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, abtestversion=null; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, JSESSIONID=bab85a79f7c9510b3deaed873483.b2c-oreilly-prdv580-app0003; Version=1; Comment=Sun+GlassFish+Enterprise+Server+v2.1.1+Session+Tracking+Cookie; Path=/, visid_incap_709814=W5dfRyrxToWNPCAUeu9jLdXbUlcAAAAAQUIPAAAAAADqHbJ0Ad5v6VsvdS8PP9pl; expires=Sun, 04 Jun 2017 08:32:36 GMT; path=/; Domain=.oreilly.com, incap_ses_289_709814=yF23FHCNNQZrRzmZJrwCBAjcUlcAAAAAJ+ZzB1RlDID4JQKnPB12nA==; path=/; Domain=.oreilly.com"
+        "set-cookie": "customer=none; Domain=.oreilly.com; Expires=Mon, 18-Jun-2018 13:50:48 GMT; Path=/, basket=none; Domain=.oreilly.com; Expires=Sat, 18-Jun-2016 13:50:48 GMT; Path=/, abtest=null; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, abtestversion=null; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, JSESSIONID=bae30cc5af289d35f9a10ecde881.b2c-oreilly-prdv580-app0004; Version=1; Comment=Sun+GlassFish+Enterprise+Server+v2.1.1+Session+Tracking+Cookie; Path=/, visid_incap_709814=FXNf/6g1QJukTA4Il8R4JLfcUlcAAAAAQUIPAAAAAACq4O+Ubh3PDsPF5cMoKwYy; expires=Sun, 04 Jun 2017 08:32:36 GMT; path=/; Domain=.oreilly.com, incap_ses_289_709814=9BXWLXrxaz9X1TqZJrwCBLfcUlcAAAAAd4vStC7JM99iEmtyJrSnjg==; path=/; Domain=.oreilly.com"
       }
     },
     {
@@ -248,32 +268,15 @@
       "status": 200,
       "error": null,
       "headers": {
-        "x-amz-id-2": "Qm8kx00/dHFPPAqgZrnZ3pdL846TtZxlG7gQDDDi9hWQkeAiF4hb4hL3qF0st2K+dkDUcMZXmPQ=",
-        "x-amz-request-id": "B93BB3B3D2AE54D3",
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
+        "x-amz-id-2": "H0eeyX1GXN9av918r1LkOApsmDRlNhZ6SsuUQHyKIYi1tBR8ilC7kx82ip6QV/MNHJ85xJxM2bY=",
+        "x-amz-request-id": "3AAF4BAAC2FBCCCD",
+        "date": "Sat, 04 Jun 2016 13:50:49 GMT",
         "last-modified": "Wed, 12 Jun 2013 18:22:00 GMT",
         "etag": "\"6f0272266ac7843cab6ef56223864f99\"",
         "accept-ranges": "bytes",
         "content-type": "image/jpeg",
         "content-length": "187919",
         "server": "AmazonS3"
-      }
-    },
-    {
-      "url": "https://www.packtpub.com/application-development/elixir-cookbook",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "server": "nginx/1.4.5",
-        "date": "Sat, 04 Jun 2016 13:48:04 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "transfer-encoding": "chunked",
-        "connection": "keep-alive",
-        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-        "cache-control": "public, s-maxage=172800",
-        "age": "63320",
-        "via": "1.1 varnish",
-        "x-country-code": "GR"
       }
     },
     {
@@ -290,10 +293,48 @@
         "expires": "Wed, 18 May 2033 03:33:20 GMT",
         "last-modified": "Wed, 01 Apr 2015 12:25:30 GMT",
         "access-control-allow-origin": "*",
-        "age": "51",
+        "age": "226",
         "x-cache": "Hit from cloudfront",
-        "via": "1.1 7e62901b3489d51ea6eed4b89f4ada01.cloudfront.net (CloudFront)",
-        "x-amz-cf-id": "uIfiNEzsS39fT0938h1yLlxKbvSrs-ek0oRgscOfYfkZX9gyz5fYng=="
+        "via": "1.1 b0f96496f0a967a55dc119a35573ce8f.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "4-fgWHKUrfqDemMvN8QVXyh7Xw7R8oR2Tm4T95WdQiUjsal3nzKmqQ=="
+      }
+    },
+    {
+      "url": "https://www.nostarch.com/sites/default/files/imagecache/product_main_page/erlang_newsmall.png",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "date": "Sat, 04 Jun 2016 13:50:49 GMT",
+        "content-type": "image/png",
+        "content-length": "35899",
+        "connection": "keep-alive",
+        "set-cookie": "__cfduid=d7bce477e6fae1403a82fed884cf2626d1465048249; expires=Sun, 04-Jun-17 13:50:49 GMT; path=/; domain=.nostarch.com; HttpOnly",
+        "cache-control": "public, max-age=1209600",
+        "cf-bgj": "imgq:100",
+        "expires": "Sat, 18 Jun 2016 13:50:49 GMT",
+        "last-modified": "Mon, 14 Jan 2013 23:38:31 GMT",
+        "cf-cache-status": "HIT",
+        "vary": "Accept-Encoding",
+        "accept-ranges": "bytes",
+        "server": "cloudflare-nginx",
+        "cf-ray": "2adbdb26d7c9400e-SOF"
+      }
+    },
+    {
+      "url": "https://www.packtpub.com/application-development/learning-elixir",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "server": "nginx/1.4.5",
+        "date": "Sat, 04 Jun 2016 13:51:00 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive",
+        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+        "cache-control": "public, s-maxage=172800",
+        "age": "62038",
+        "via": "1.1 varnish",
+        "x-country-code": "GR"
       }
     },
     {
@@ -311,93 +352,27 @@
         "expires": "Thu, 31 Dec 2037 23:55:55 GMT",
         "cache-control": "max-age=315360000, public",
         "accept-ranges": "bytes",
-        "age": "51",
+        "age": "226",
         "x-cache": "Hit from cloudfront",
-        "via": "1.1 7aeb60a9f9f5f042662ab188a5ad19a8.cloudfront.net (CloudFront)",
-        "x-amz-cf-id": "NxN2k8JB82IMcEE2595AlPUreYfekuziiEY1kYXe9LqjHbhEnTSDPg=="
+        "via": "1.1 43c3e9179a39d087f25c9ddba8a3d184.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "2so4vcRxsjjG1VywLQTSbn9SXkYbeiAnI8c5pB7Kgh_wgo9z4usetA=="
       }
     },
     {
-      "url": "https://www.packtpub.com/application-development/learning-elixir",
+      "url": "http://elixir-lang.org/images/learning/metaprogramming-elixir.jpg",
       "status": 200,
       "error": null,
       "headers": {
-        "server": "nginx/1.4.5",
-        "date": "Sat, 04 Jun 2016 13:48:05 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "transfer-encoding": "chunked",
-        "connection": "keep-alive",
-        "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-        "cache-control": "public, s-maxage=172800",
-        "age": "61864",
-        "via": "1.1 varnish",
-        "x-country-code": "GR"
-      }
-    },
-    {
-      "url": "https://www.nostarch.com/sites/default/files/imagecache/product_main_page/erlang_newsmall.png",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
-        "content-type": "image/png",
-        "content-length": "35899",
-        "connection": "keep-alive",
-        "set-cookie": "__cfduid=dc6a0c06cb7bc30b11223c4a4050fa86d1465048074; expires=Sun, 04-Jun-17 13:47:54 GMT; path=/; domain=.nostarch.com; HttpOnly",
-        "cache-control": "public, max-age=1209600",
-        "cf-bgj": "imgq:100",
-        "expires": "Sat, 18 Jun 2016 13:47:54 GMT",
-        "last-modified": "Mon, 14 Jan 2013 23:38:31 GMT",
-        "cf-cache-status": "HIT",
-        "vary": "Accept-Encoding",
+        "server": "GitHub.com",
+        "date": "Sat, 04 Jun 2016 13:50:49 GMT",
+        "content-type": "image/jpeg",
+        "content-length": "39011",
+        "last-modified": "Thu, 02 Jun 2016 08:12:20 GMT",
+        "access-control-allow-origin": "*",
+        "expires": "Sat, 04 Jun 2016 14:00:49 GMT",
+        "cache-control": "max-age=600",
         "accept-ranges": "bytes",
-        "server": "cloudflare-nginx",
-        "cf-ray": "2adbd6e2d4be401a-SOF"
-      }
-    },
-    {
-      "url": "http://learnyousomeerlang.com",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
-        "server": "Apache/2.2",
-        "cache-control": "max-age=3600, private, must-revalidate",
-        "expires": "Sat, 04 Jun 2016 14:47:54 GMT",
-        "content-length": "3207",
-        "content-type": "text/html",
-        "via": "1.1 vhost.phx5.nearlyfreespeech.net (squid)",
-        "connection": "keep-alive"
-      }
-    },
-    {
-      "url": "https://images.manning.com/255/340/resize/book/5/2e8efb1-9e6f-462c-9487-04eac07ea623/juric.png",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "server": "nginx/1.4.2",
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
-        "content-type": "image/png",
-        "content-length": "22802",
-        "last-modified": "Fri, 03 Jun 2016 15:17:05 GMT",
-        "connection": "keep-alive",
-        "etag": "\"57519f71-5912\"",
-        "expires": "Sat, 11 Jun 2016 13:47:54 GMT",
-        "cache-control": "max-age=604800",
-        "accept-ranges": "bytes"
-      }
-    },
-    {
-      "url": "https://www.manning.com/books/elixir-in-action",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "server": "nginx/1.4.2",
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
-        "content-type": "text/html;charset=utf-8",
-        "transfer-encoding": "chunked",
-        "connection": "keep-alive",
-        "content-language": "en-US"
+        "x-github-request-id": "C2DB8DB6:3613:2055DBA:5752DCB9"
       }
     },
     {
@@ -410,27 +385,24 @@
         "last-modified": "Mon, 10 Mar 2014 20:56:07 GMT",
         "content-length": "90717",
         "content-type": "image/jpeg",
-        "cache-control": "max-age=2591950",
-        "expires": "Mon, 04 Jul 2016 13:47:04 GMT",
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
+        "cache-control": "max-age=2591748",
+        "expires": "Mon, 04 Jul 2016 13:46:37 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:49 GMT",
         "connection": "keep-alive"
       }
     },
     {
-      "url": "https://images.manning.com/255/340/resize/book/b/652215c-a8c9-42a1-b04f-264846c99cc5/ElixirOTP_hires_meap.png",
+      "url": "http://learnyousomeerlang.com",
       "status": 200,
       "error": null,
       "headers": {
-        "server": "nginx/1.4.2",
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
-        "content-type": "image/png",
-        "content-length": "25030",
-        "last-modified": "Sat, 04 Jun 2016 11:06:22 GMT",
-        "connection": "keep-alive",
-        "etag": "\"5752b62e-61c6\"",
-        "expires": "Sat, 11 Jun 2016 13:47:54 GMT",
-        "cache-control": "max-age=604800",
-        "accept-ranges": "bytes"
+        "date": "Sat, 04 Jun 2016 13:50:50 GMT",
+        "server": "Apache/2.2",
+        "cache-control": "max-age=3600, private, must-revalidate",
+        "expires": "Sat, 04 Jun 2016 14:50:50 GMT",
+        "content-length": "3207",
+        "content-type": "text/html",
+        "via": "1.1 vhost.phx2.nearlyfreespeech.net:3128 (squid/2.7.STABLE7)"
       }
     },
     {
@@ -439,7 +411,7 @@
       "error": null,
       "headers": {
         "server": "nginx/1.4.2",
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:49 GMT",
         "content-type": "text/html;charset=utf-8",
         "transfer-encoding": "chunked",
         "connection": "keep-alive",
@@ -447,20 +419,71 @@
       }
     },
     {
-      "url": "http://elixir-lang.org/images/learning/metaprogramming-elixir.jpg",
+      "url": "https://images.manning.com/255/340/resize/book/5/2e8efb1-9e6f-462c-9487-04eac07ea623/juric.png",
       "status": 200,
       "error": null,
       "headers": {
-        "server": "GitHub.com",
-        "date": "Sat, 04 Jun 2016 13:47:54 GMT",
-        "content-type": "image/jpeg",
-        "content-length": "39011",
-        "last-modified": "Thu, 02 Jun 2016 08:12:20 GMT",
-        "access-control-allow-origin": "*",
-        "expires": "Sat, 04 Jun 2016 13:57:54 GMT",
-        "cache-control": "max-age=600",
-        "accept-ranges": "bytes",
-        "x-github-request-id": "C2DB8DB6:3613:203993F:5752DC0A"
+        "server": "nginx/1.4.2",
+        "date": "Sat, 04 Jun 2016 13:50:49 GMT",
+        "content-type": "image/png",
+        "content-length": "22802",
+        "last-modified": "Fri, 03 Jun 2016 15:17:05 GMT",
+        "connection": "keep-alive",
+        "etag": "\"57519f71-5912\"",
+        "expires": "Sat, 11 Jun 2016 13:50:49 GMT",
+        "cache-control": "max-age=604800",
+        "accept-ranges": "bytes"
+      }
+    },
+    {
+      "url": "https://www.manning.com/books/elixir-in-action",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "server": "nginx/1.4.2",
+        "date": "Sat, 04 Jun 2016 13:50:49 GMT",
+        "content-type": "text/html;charset=utf-8",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive",
+        "content-language": "en-US"
+      }
+    },
+    {
+      "url": "https://images.manning.com/255/340/resize/book/b/652215c-a8c9-42a1-b04f-264846c99cc5/ElixirOTP_hires_meap.png",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "server": "nginx/1.4.2",
+        "date": "Sat, 04 Jun 2016 13:50:49 GMT",
+        "content-type": "image/png",
+        "content-length": "25030",
+        "last-modified": "Sat, 04 Jun 2016 11:06:22 GMT",
+        "connection": "keep-alive",
+        "etag": "\"5752b62e-61c6\"",
+        "expires": "Sat, 11 Jun 2016 13:50:49 GMT",
+        "cache-control": "max-age=604800",
+        "accept-ranges": "bytes"
+      }
+    },
+    {
+      "url": "http://shop.oreilly.com/product/0636920024149.do",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "content-language": "en-US",
+        "content-type": "text/html;charset=UTF-8",
+        "server": "Apache",
+        "x-powered-by": "JSP/2.1",
+        "x-iinfo": "4-5750604-5776674 SNNN RT(1465047201311 1047681) q(0 0 0 -1) r(3 3) U2",
+        "x-cdn": "Incapsula",
+        "vary": "Accept-Encoding",
+        "expires": "Sat, 04 Jun 2016 13:50:50 GMT",
+        "cache-control": "max-age=0, no-cache, no-store",
+        "pragma": "no-cache",
+        "date": "Sat, 04 Jun 2016 13:50:50 GMT",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive, Transfer-Encoding",
+        "set-cookie": "customer=none; Domain=.oreilly.com; Expires=Mon, 18-Jun-2018 13:50:49 GMT; Path=/, basket=none; Domain=.oreilly.com; Expires=Sat, 18-Jun-2016 13:50:49 GMT; Path=/, abtest=null; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, abtestversion=null; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, JSESSIONID=bae3623862cde6b044aecf073a7d.b2c-oreilly-prdv580-app0002; Version=1; Comment=Sun+GlassFish+Enterprise+Server+v2.1.1+Session+Tracking+Cookie; Path=/, visid_incap_709814=CTI3a9lOTySmOvBhjXxe8rncUlcAAAAAQUIPAAAAAABrAjz4OXG+No8vCJTGr3KK; expires=Sun, 04 Jun 2017 08:32:36 GMT; path=/; Domain=.oreilly.com, incap_ses_289_709814=OH8dcVr6k3TA1zqZJrwCBLncUlcAAAAAxu895Sy5YewkOzrDk6oR7w==; path=/; Domain=.oreilly.com"
       }
     },
     {
@@ -477,33 +500,10 @@
         "expires": "Wed, 18 May 2033 03:33:20 GMT",
         "last-modified": "Mon, 10 Aug 2015 11:19:01 GMT",
         "access-control-allow-origin": "*",
-        "age": "14782",
+        "age": "14957",
         "x-cache": "Hit from cloudfront",
         "via": "1.1 931dc2a027a2dae7db58af3b374d9571.cloudfront.net (CloudFront)",
-        "x-amz-cf-id": "GYa8g2PSSANwwc-isbJgC0y6MDGE7YlMzv26jXf8lhR46B6GkuuxzA=="
-      }
-    },
-    {
-      "url": "https://pragprog.com/book/elixir/programming-elixir",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "content-type": "text/html; charset=utf-8",
-        "date": "Sat, 04 Jun 2016 13:47:57 GMT",
-        "server": "nginx + Phusion Passenger 5.0.27",
-        "set-cookie": "_prag_production_session32=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTViYzEwMTQ3YzQxOThkZDdhN2IxZTdjZDZkZDM2ZWI4BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMWRCeVV2NW9lbWpod0dXOGltQVBlbTBNcmpVY1lSMXNyMzF1cnY5NUNPUDQ9BjsARg%3D%3D--17ac2b91259fd6597d1c883f6459dce5c424184b; domain=.pragprog.com; path=/; HttpOnly",
-        "status": "200 OK",
-        "strict-transport-security": "max-age=31536000; includeSubDomains",
-        "x-app-info": "Unknown@localhost@160601042820-2.1.2",
-        "x-frame-options": "DENY",
-        "x-powered-by": "Phusion Passenger 5.0.27",
-        "x-request-id": "c8d97c7b31598d63c4577ddeb64a8397",
-        "x-runtime": "0.291113",
-        "x-ua-compatible": "IE=Edge,chrome=1",
-        "x-xrds-location": "https://pragprog.com/pragprog.xrds",
-        "x-xss-protection": "1;",
-        "transfer-encoding": "chunked",
-        "connection": "keep-alive"
+        "x-amz-cf-id": "sUPljj7RAY0DxJuLtAjDSUHjlCBTfk0yH41paxyUBiZk1pdjPct23Q=="
       }
     },
     {
@@ -520,63 +520,10 @@
         "expires": "Wed, 18 May 2033 03:33:20 GMT",
         "last-modified": "Mon, 16 May 2016 22:04:53 GMT",
         "access-control-allow-origin": "*",
-        "age": "15101",
+        "age": "15276",
         "x-cache": "Hit from cloudfront",
-        "via": "1.1 6ed32821244f98865b8d2952067f0d2a.cloudfront.net (CloudFront)",
-        "x-amz-cf-id": "n75vBVB6Y-guQ0XDKWpk4GQAuzMciiLczD3-slFqpBDYuCZTaHE-pQ=="
-      }
-    },
-    {
-      "url": "http://www.erlang-in-anger.com/",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "connection": "keep-alive",
-        "date": "Sat, 04 Jun 2016 13:47:55 GMT",
-        "server": "Apache/2.2.19 (Unix)",
-        "last-modified": "Thu, 12 May 2016 13:22:59 GMT",
-        "etag": "\"ba30f5-2972-532a50e9212c0\"",
-        "accept-ranges": "bytes",
-        "content-length": "10610",
-        "content-type": "text/html",
-        "via": "1.1 vegur"
-      }
-    },
-    {
-      "url": "http://shop.oreilly.com/product/0636920024149.do",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "content-language": "en-US",
-        "content-type": "text/html;charset=UTF-8",
-        "server": "Apache",
-        "x-powered-by": "JSP/2.1",
-        "x-iinfo": "6-3741425-3746833 SNNN RT(1465047799233 275432) q(0 0 0 0) r(2 2) U2",
-        "x-cdn": "Incapsula",
-        "vary": "Accept-Encoding",
-        "expires": "Sat, 04 Jun 2016 13:47:55 GMT",
-        "cache-control": "max-age=0, no-cache, no-store",
-        "pragma": "no-cache",
-        "date": "Sat, 04 Jun 2016 13:47:55 GMT",
-        "transfer-encoding": "chunked",
-        "connection": "keep-alive, Transfer-Encoding",
-        "set-cookie": "customer=none; Domain=.oreilly.com; Expires=Mon, 18-Jun-2018 13:47:54 GMT; Path=/, basket=none; Domain=.oreilly.com; Expires=Sat, 18-Jun-2016 13:47:54 GMT; Path=/, abtest=null; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, abtestversion=null; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/, JSESSIONID=bab8abbc9f4186b5986f5c23f3e8.b2c-oreilly-prdv580-app0001; Version=1; Comment=Sun+GlassFish+Enterprise+Server+v2.1.1+Session+Tracking+Cookie; Path=/, visid_incap_709814=vfzTH8uAT0K6UaAPTnEIYdfbUlcAAAAAQUIPAAAAAAAgH7C1pW1LBDGsIfQnluJQ; expires=Sun, 04 Jun 2017 08:06:11 GMT; path=/; Domain=.oreilly.com, incap_ses_275_709814=Ki1eE6nUFHeGHX5zDQDRAwrcUlcAAAAAuVbFcdWIfunfjYtr5k31Vw==; path=/; Domain=.oreilly.com"
-      }
-    },
-    {
-      "url": "http://elixirsips.com",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "server": "GitHub.com",
-        "date": "Sat, 04 Jun 2016 13:47:55 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "transfer-encoding": "chunked",
-        "last-modified": "Tue, 17 May 2016 20:13:03 GMT",
-        "access-control-allow-origin": "*",
-        "expires": "Sat, 04 Jun 2016 13:57:55 GMT",
-        "cache-control": "max-age=600",
-        "x-github-request-id": "C2DB8DB6:3613:2039ABA:5752DC0B"
+        "via": "1.1 a43fbc2ff9a0924cf6b8a775b9aa5113.cloudfront.net (CloudFront)",
+        "x-amz-cf-id": "UKQZFJ8mwhI_GO8vpk_87Ymst4nT5bM5Kn9dd2ABnoAfOTiBnin56w=="
       }
     },
     {
@@ -585,16 +532,16 @@
       "error": null,
       "headers": {
         "content-type": "text/html; charset=utf-8",
-        "date": "Sat, 04 Jun 2016 13:47:57 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:52 GMT",
         "server": "nginx + Phusion Passenger 5.0.27",
-        "set-cookie": "_prag_production_session32=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTE5Y2FjMWE4ZWFkMmEzYTE5ZjEyMjQ2ZTkxOGQ0NDYxBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMVJKcUhlaWxWYkRyb05mRk5iQWhMYUI0SDhRVXJsV1oyN01rNXkreTRnd0E9BjsARg%3D%3D--8764d7de57e6d4ad297e9b9716f3eee82f282995; domain=.pragprog.com; path=/; HttpOnly",
+        "set-cookie": "_prag_production_session32=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTJlYjJmMmExYzg0MDM1NWEyOTkyYmFkMjI2NDZiM2E2BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUZPVjZCS2tmTmMwLzJUcy93ZHBVdGRrU1hBRU9aUzVXNkVSWDk1ZHRMMjg9BjsARg%3D%3D--cdab15e7b95e4cd3fb8c1d951dd8525959fa44c2; domain=.pragprog.com; path=/; HttpOnly",
         "status": "200 OK",
         "strict-transport-security": "max-age=31536000; includeSubDomains",
         "x-app-info": "Unknown@localhost@160601042820-2.1.2",
         "x-frame-options": "DENY",
         "x-powered-by": "Phusion Passenger 5.0.27",
-        "x-request-id": "c3e14e0d9a2929e7a6bb508837aae5ec",
-        "x-runtime": "0.181612",
+        "x-request-id": "fc276e409adb9fc273f8b4687b960775",
+        "x-runtime": "0.173758",
         "x-ua-compatible": "IE=Edge,chrome=1",
         "x-xrds-location": "https://pragprog.com/pragprog.xrds",
         "x-xss-protection": "1;",
@@ -603,23 +550,100 @@
       }
     },
     {
-      "url": "https://www.learnelixir.tv/",
+      "url": "https://pragprog.com/book/elixir/programming-elixir",
       "status": 200,
       "error": null,
       "headers": {
-        "date": "Sat, 04 Jun 2016 13:47:55 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 04 Jun 2016 13:52:43 GMT",
+        "server": "nginx + Phusion Passenger 5.0.27",
+        "set-cookie": "_prag_production_session32=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTY3Yzc0OWMyY2U5YmMyZTQ4ZjQ5OWYwOTAxZWIyZDU1BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUZKMFBydDZzbHdPaEZDdFlmcXBMQk9XeFFjcjJ1dzYzSWpiR092QkJkY1k9BjsARg%3D%3D--13108c166f7303926dd5f7740c9c6bed654c4a58; domain=.pragprog.com; path=/; HttpOnly",
+        "status": "200 OK",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "x-app-info": "Unknown@localhost@160601043003-2.1.2",
+        "x-frame-options": "DENY",
+        "x-powered-by": "Phusion Passenger 5.0.27",
+        "x-request-id": "373f060f8de77fac40802f496c2a8cd7",
+        "x-runtime": "0.160609",
+        "x-ua-compatible": "IE=Edge,chrome=1",
+        "x-xrds-location": "https://pragprog.com/pragprog.xrds",
+        "x-xss-protection": "1;",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
+      }
+    },
+    {
+      "url": "http://www.erlang-in-anger.com/",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "connection": "keep-alive",
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
+        "server": "Apache/2.2.19 (Unix)",
+        "last-modified": "Thu, 12 May 2016 13:22:59 GMT",
+        "etag": "\"4055bb-2972-532a50e9212c0\"",
+        "accept-ranges": "bytes",
+        "content-length": "10610",
+        "content-type": "text/html",
+        "via": "1.1 vegur"
+      }
+    },
+    {
+      "url": "https://excasts.com",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "server": "nginx",
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
         "content-type": "text/html; charset=utf-8",
         "transfer-encoding": "chunked",
         "connection": "keep-alive",
-        "set-cookie": "__cfduid=d9fcb32f1789014bbb75555bb35ea5c421465048075; expires=Sun, 04-Jun-17 13:47:55 GMT; path=/; domain=.learnelixir.tv; HttpOnly",
+        "set-cookie": "_anycasts_key=g3QAAAABbQAAAAtfY3NyZl90b2tlbm0AAAAYeHpiWHZBc3VkTm5ZWWpnQ2JKTWs3QT09##v7tlfXFiJKi0RUTIimhwmJf056Q=; path=/; HttpOnly",
         "cache-control": "max-age=0, private, must-revalidate",
-        "x-request-id": "760a5d34-01ae-41e8-b891-0838d05149e9",
+        "x-request-id": "j99l629ttqkf36kuiotb6cukt1pub1q2",
         "x-frame-options": "SAMEORIGIN",
         "x-xss-protection": "1; mode=block",
         "x-content-type-options": "nosniff",
-        "via": "1.1 vegur",
-        "server": "cloudflare-nginx",
-        "cf-ray": "2adbd6e8bfd64032-SOF"
+        "strict-transport-security": "max-age=31536000; includeSubDomains"
+      }
+    },
+    {
+      "url": "http://elixirsips.com",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "server": "GitHub.com",
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "transfer-encoding": "chunked",
+        "last-modified": "Tue, 17 May 2016 20:13:03 GMT",
+        "access-control-allow-origin": "*",
+        "expires": "Sat, 04 Jun 2016 14:00:51 GMT",
+        "cache-control": "max-age=600",
+        "x-github-request-id": "C2DB8DB6:3613:20560CD:5752DCBB"
+      }
+    },
+    {
+      "url": "https://pragprog.com/book/phoenix/programming-phoenix",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "date": "Sat, 04 Jun 2016 13:52:44 GMT",
+        "server": "nginx + Phusion Passenger 5.0.27",
+        "set-cookie": "_prag_production_session32=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTkzNjI0MzUxOGYzMGRhOTFhMmRiMWVmOWZiM2ZkZjQ5BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMW5CT0VDanFOQ1FqQUpYM3pYbXg1SlFoWlVYeFNlc2djWVNhQnBUQzBwd2c9BjsARg%3D%3D--1cd53ac48c04eb9082d7203f20f30b8ccb85f8cf; domain=.pragprog.com; path=/; HttpOnly",
+        "status": "200 OK",
+        "strict-transport-security": "max-age=31536000; includeSubDomains",
+        "x-app-info": "Unknown@localhost@160601043003-2.1.2",
+        "x-frame-options": "DENY",
+        "x-powered-by": "Phusion Passenger 5.0.27",
+        "x-request-id": "a25d190501544e4500e6c17ff7c4d330",
+        "x-runtime": "0.196365",
+        "x-ua-compatible": "IE=Edge,chrome=1",
+        "x-xrds-location": "https://pragprog.com/pragprog.xrds",
+        "x-xss-protection": "1;",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive"
       }
     },
     {
@@ -628,16 +652,16 @@
       "error": null,
       "headers": {
         "content-type": "text/html; charset=utf-8",
-        "date": "Sat, 04 Jun 2016 13:47:58 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:53 GMT",
         "server": "nginx + Phusion Passenger 5.0.27",
-        "set-cookie": "_prag_production_session32=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTRkOTQzODA2ZjU1OTZkYTI4OWNkODllYmY1ZjdlNzdjBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUVtOUdWNk5KVjVpVWJPNHV5WlNESjdrb2FETUdEZXVvNkFVOGI0Mnh3UW89BjsARg%3D%3D--715292613b624726b21a38bcb827a11cb712f68c; domain=.pragprog.com; path=/; HttpOnly",
+        "set-cookie": "_prag_production_session32=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJWE0NWY4NDM4YjcyZmUxYmMwOWMyZTc5OTk2NzQ4NDg3BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMVlrUTliQ2JrRTBtUk9nT0RPSTdwUzVTSU44YjRjZ1NxWkhqSEErK0JlcDA9BjsARg%3D%3D--fec29981cd05a52e0fbaa21b4f5afc17636915f2; domain=.pragprog.com; path=/; HttpOnly",
         "status": "200 OK",
         "strict-transport-security": "max-age=31536000; includeSubDomains",
         "x-app-info": "Unknown@localhost@160601042820-2.1.2",
         "x-frame-options": "DENY",
         "x-powered-by": "Phusion Passenger 5.0.27",
-        "x-request-id": "8c8a34b03fe1d4c83f450d6c6b43befb",
-        "x-runtime": "0.203401",
+        "x-request-id": "53032af2978647264ea821478d15447b",
+        "x-runtime": "0.369261",
         "x-ua-compatible": "IE=Edge,chrome=1",
         "x-xrds-location": "https://pragprog.com/pragprog.xrds",
         "x-xss-protection": "1;",
@@ -651,53 +675,15 @@
       "error": null,
       "headers": {
         "server": "nginx/1.4.2",
-        "date": "Sat, 04 Jun 2016 13:47:55 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
         "content-type": "image/png",
         "content-length": "26306",
         "last-modified": "Sat, 04 Jun 2016 12:23:26 GMT",
         "connection": "keep-alive",
         "etag": "\"5752c83e-66c2\"",
-        "expires": "Sat, 11 Jun 2016 13:47:55 GMT",
+        "expires": "Sat, 11 Jun 2016 13:50:51 GMT",
         "cache-control": "max-age=604800",
         "accept-ranges": "bytes"
-      }
-    },
-    {
-      "url": "https://excasts.com",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "server": "nginx",
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "transfer-encoding": "chunked",
-        "connection": "keep-alive",
-        "set-cookie": "_anycasts_key=g3QAAAABbQAAAAtfY3NyZl90b2tlbm0AAAAYNTYrWDVHZnJGRFpxbFhEVkZYMHNrUT09##EL6KcVmDy9HdcIQdONE8Z4UhCUU=; path=/; HttpOnly",
-        "cache-control": "max-age=0, private, must-revalidate",
-        "x-request-id": "3igbd1cujc7rj4pgahgqfojqudnoq341",
-        "x-frame-options": "SAMEORIGIN",
-        "x-xss-protection": "1; mode=block",
-        "x-content-type-options": "nosniff",
-        "strict-transport-security": "max-age=31536000; includeSubDomains"
-      }
-    },
-    {
-      "url": "http://stackoverflow.com/questions/tagged/elixir",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "content-length": "29382",
-        "connection": "keep-alive",
-        "set-cookie": "__cfduid=d1f1ca54e3410be8e75382bedb3fc34421465048075; expires=Sun, 04-Jun-17 13:47:55 GMT; path=/; domain=.stackoverflow.com; HttpOnly, prov=6ed18974-ea47-4c01-9042-ca9783f7313b; domain=.stackoverflow.com; expires=Fri, 01-Jan-2055 00:00:00 GMT; path=/; HttpOnly",
-        "cache-control": "private",
-        "last-modified": "Sat, 04 Jun 2016 10:39:24 GMT",
-        "vary": "Accept-Encoding",
-        "x-frame-options": "SAMEORIGIN",
-        "x-request-guid": "fe2013fb-68bf-44ee-bb16-81553e57f264",
-        "server": "cloudflare-nginx",
-        "cf-ray": "2adbd6e9defb404a-SOF"
       }
     },
     {
@@ -706,11 +692,31 @@
       "error": null,
       "headers": {
         "server": "nginx/1.4.2",
-        "date": "Sat, 04 Jun 2016 13:47:55 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:50 GMT",
         "content-type": "text/html;charset=utf-8",
         "transfer-encoding": "chunked",
         "connection": "keep-alive",
         "content-language": "en-US"
+      }
+    },
+    {
+      "url": "https://www.learnelixir.tv/",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive",
+        "set-cookie": "__cfduid=dbdd0aa7b86dcec9d490ee733b72aaa481465048251; expires=Sun, 04-Jun-17 13:50:51 GMT; path=/; domain=.learnelixir.tv; HttpOnly",
+        "cache-control": "max-age=0, private, must-revalidate",
+        "x-request-id": "2f7fb05f-d382-40ef-8da2-142158dccd82",
+        "x-frame-options": "SAMEORIGIN",
+        "x-xss-protection": "1; mode=block",
+        "x-content-type-options": "nosniff",
+        "via": "1.1 vegur",
+        "server": "cloudflare-nginx",
+        "cf-ray": "2adbdb31fc5b402c-SOF"
       }
     },
     {
@@ -719,116 +725,38 @@
       "error": null,
       "headers": {
         "server": "nginx",
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
         "content-type": "text/html; charset=utf-8",
         "transfer-encoding": "chunked",
         "connection": "keep-alive",
         "status": "200 OK",
         "x-ua-compatible": "IE=Edge,chrome=1",
-        "etag": "W/\"cad8231eacd71f44f45d077c975f453f\"",
+        "etag": "W/\"e9e94945a996e9962bee4755935dd224\"",
         "cache-control": "max-age=0, private, must-revalidate",
-        "set-cookie": "paperlisession=1cbd2234af8d22da8670ff18ac0f57db; path=/; HttpOnly",
-        "x-request-id": "369e0ebdc223eaa9d6d91f8c95f7528a",
-        "x-runtime": "0.043014",
+        "set-cookie": "paperlisession=9baca3fbb6edf8b48465afccdc4e322b; path=/; HttpOnly",
+        "x-request-id": "dc96a6a312ef810dae4cee8176d93f63",
+        "x-runtime": "0.058794",
         "x-rack-cache": "miss",
         "p3p": "policyref=\"http://paper.li/w3c/p3p.xml\",CP=\"NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT\""
       }
     },
     {
-      "url": "https://www.reddit.com/r/elixir",
+      "url": "http://stackoverflow.com/questions/tagged/elixir",
       "status": 200,
       "error": null,
       "headers": {
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
-        "content-type": "text/html; charset=UTF-8",
-        "content-length": "20385",
-        "connection": "keep-alive",
-        "set-cookie": "__cfduid=d1d0af2180a7e27c23eb2a9ae74b3c7581465048075; expires=Sun, 04-Jun-17 13:47:55 GMT; path=/; domain=.reddit.com; HttpOnly, loid=JovQjS3nOTb2TSu0WD; Domain=reddit.com; Max-Age=63071999; Path=/; expires=Mon, 04-Jun-2018 13:47:56 GMT; secure, loidcreated=2016-06-04T13%3A47%3A55.852Z; Domain=reddit.com; Max-Age=63071999; Path=/; expires=Mon, 04-Jun-2018 13:47:56 GMT; secure",
-        "x-ua-compatible": "IE=edge",
-        "x-frame-options": "SAMEORIGIN",
-        "x-content-type-options": "nosniff",
-        "x-xss-protection": "1; mode=block",
-        "vary": "accept-encoding",
-        "cache-control": "max-age=0, must-revalidate",
-        "x-moose": "majestic",
-        "strict-transport-security": "max-age=15552000; includeSubDomains; preload",
-        "server": "cloudflare-nginx",
-        "cf-ray": "2adbd6e973cb4038-SOF"
-      }
-    },
-    {
-      "url": "https://pragprog.com/book/phoenix/programming-phoenix",
-      "status": 200,
-      "error": null,
-      "headers": {
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
         "content-type": "text/html; charset=utf-8",
-        "date": "Sat, 04 Jun 2016 13:47:58 GMT",
-        "server": "nginx + Phusion Passenger 5.0.27",
-        "set-cookie": "_prag_production_session32=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiJTdjZDQyODhhMDM2N2JlOTBmMTY3ZmRkMmQ2MzU4ZDhmBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMVcvNzVscHZGOVZHNnVSdlFjVzZwZVYvcnlLTFhyaGE3M2FkT0ZQZVlyYnM9BjsARg%3D%3D--ffc2475b6a037557dc7f8de374409e01bd680269; domain=.pragprog.com; path=/; HttpOnly",
-        "status": "200 OK",
-        "strict-transport-security": "max-age=31536000; includeSubDomains",
-        "x-app-info": "Unknown@localhost@160601042820-2.1.2",
-        "x-frame-options": "DENY",
-        "x-powered-by": "Phusion Passenger 5.0.27",
-        "x-request-id": "c37e6e6ed608c40d094195488c13190d",
-        "x-runtime": "0.322919",
-        "x-ua-compatible": "IE=Edge,chrome=1",
-        "x-xrds-location": "https://pragprog.com/pragprog.xrds",
-        "x-xss-protection": "1;",
-        "transfer-encoding": "chunked",
-        "connection": "keep-alive"
-      }
-    },
-    {
-      "url": "https://licensebuttons.net/l/by/4.0/88x31.png",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
-        "content-type": "image/png",
-        "content-length": "1393",
+        "content-length": "29295",
         "connection": "keep-alive",
-        "set-cookie": "__cfduid=da25f673d6f027f3ad2c84b711210d44a1465048076; expires=Sun, 04-Jun-17 13:47:56 GMT; path=/; domain=.licensebuttons.net; HttpOnly",
-        "cf-bgj": "imgq:100",
-        "etag": "\"1283-4f0c8c2319f40\"",
-        "last-modified": "Sat, 25 Jan 2014 10:15:49 GMT",
-        "cf-cache-status": "HIT",
+        "set-cookie": "__cfduid=df06f6aa054850d208db7998b8960ea811465048251; expires=Sun, 04-Jun-17 13:50:51 GMT; path=/; domain=.stackoverflow.com; HttpOnly, prov=ef232ff0-9033-4c93-a669-794fcb9fc575; domain=.stackoverflow.com; expires=Fri, 01-Jan-2055 00:00:00 GMT; path=/; HttpOnly",
+        "cache-control": "private",
+        "last-modified": "Sat, 04 Jun 2016 10:39:24 GMT",
         "vary": "Accept-Encoding",
-        "expires": "Thu, 09 Jun 2016 13:47:56 GMT",
-        "cache-control": "public, max-age=432000",
-        "accept-ranges": "bytes",
+        "x-frame-options": "SAMEORIGIN",
+        "x-request-guid": "e0ff93d1-555a-49c0-90a9-531d9fa52ea0",
         "server": "cloudflare-nginx",
-        "cf-ray": "2adbd6edd1fc4038-SOF"
-      }
-    },
-    {
-      "url": "http://elixirkoans.io",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "server": "GitHub.com",
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
-        "content-type": "text/html; charset=utf-8",
-        "transfer-encoding": "chunked",
-        "last-modified": "Sat, 23 Apr 2016 15:27:15 GMT",
-        "access-control-allow-origin": "*",
-        "expires": "Sat, 04 Jun 2016 13:57:56 GMT",
-        "cache-control": "max-age=600",
-        "x-github-request-id": "C2DB8DB6:3613:2039CC9:5752DC0C"
-      }
-    },
-    {
-      "url": "http://plataformatec.com.br/elixir-radar",
-      "status": 200,
-      "error": null,
-      "headers": {
-        "server": "nginx/1.8.0",
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
-        "content-type": "text/html",
-        "last-modified": "Fri, 20 May 2016 21:28:58 GMT",
-        "transfer-encoding": "chunked",
-        "connection": "keep-alive",
-        "etag": "W/\"573f819a-1382\""
+        "cf-ray": "2adbdb3225a74020-SOF"
       }
     },
     {
@@ -842,52 +770,54 @@
         "x-xss-protection": "1; mode=block",
         "x-content-type-options": "nosniff",
         "x-frame-options": "SAMEORIGIN",
-        "set-cookie": "rack.session=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiRTczYmVhY2Y1OGUxZmQxNDMyMGJl%0AMjU3NzMxNGQyOTZlM2U3ZTFiNTQ5Y2E2NmNhNWYyOTdmN2E5ZTM1NzVjYTkG%0AOwBGSSIOX19GTEFTSF9fBjsARnsA%0A--7933bb312d9d17190c21df665ae9694623860660; path=/; HttpOnly",
+        "set-cookie": "rack.session=BAh7B0kiD3Nlc3Npb25faWQGOgZFVEkiRTRhMWQ1OThmZTkzY2VmMDI1ZjAx%0AN2Y5ZmY4Y2Y5NTZkYmM0NWJhY2FiM2Q1ZTM2NmQyOGE5N2IwNjk4ZjNmNGIG%0AOwBGSSIOX19GTEFTSF9fBjsARnsA%0A--e359a345655f4573410016ba9da0a581a9959247; path=/; HttpOnly",
         "via": "1.1 vegur, 1.1 varnish, 1.1 varnish",
         "accept-ranges": "bytes, bytes",
         "fastly-debug-digest": "342d23a2fd565948631a2b415a34c04659b60522e2f57675b822c3a486e36079",
         "content-length": "74137",
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
         "connection": "keep-alive",
-        "x-served-by": "cache-dfw1822-DFW, cache-fra1228-FRA",
+        "x-served-by": "cache-dfw1826-DFW, cache-fra1237-FRA",
         "x-cache": "MISS, MISS",
         "x-cache-hits": "0, 0",
-        "x-timer": "S1465048076.123213,VS0,VE328",
+        "x-timer": "S1465048251.286030,VS0,VE277",
         "vary": "Accept-Encoding"
       }
     },
     {
-      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "url": "http://plataformatec.com.br/elixir-radar",
       "status": 200,
       "error": null,
       "headers": {
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
-        "content-type": "text/html; charset=UTF-8",
+        "server": "nginx/1.8.0",
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
+        "content-type": "text/html",
+        "last-modified": "Fri, 20 May 2016 21:28:58 GMT",
         "transfer-encoding": "chunked",
         "connection": "keep-alive",
-        "set-cookie": "__cfduid=d25b75bbfa50890f86ccb61868ffb6bf71465048076; expires=Sun, 04-Jun-17 13:47:56 GMT; path=/; domain=.creativecommons.org; HttpOnly",
-        "vary": "Accept-Encoding",
-        "x-varnish": "388217948 387859668",
-        "age": "85",
-        "via": "1.1 varnish-v4",
-        "server": "cloudflare-nginx",
-        "cf-ray": "2adbd6ed5fa04014-SOF"
+        "etag": "W/\"573f819a-1382\""
       }
     },
     {
-      "url": "https://s3.amazonaws.com/erlang-in-anger/book-cover.png",
+      "url": "https://licensebuttons.net/l/by/4.0/88x31.png",
       "status": 200,
       "error": null,
       "headers": {
-        "x-amz-id-2": "edIj6+0n/antdlRZjzH7ekefOkvTrXJw53Tmwjzm8eKMHCW3HNVezMdyGuvVQdJyhkcUbDpLjfw=",
-        "x-amz-request-id": "860CBD779520382E",
-        "date": "Sat, 04 Jun 2016 13:47:57 GMT",
-        "last-modified": "Mon, 15 Sep 2014 12:25:19 GMT",
-        "etag": "\"dade3eae99972da4a22a137561f886a8\"",
-        "accept-ranges": "bytes",
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
         "content-type": "image/png",
-        "content-length": "131240",
-        "server": "AmazonS3"
+        "content-length": "1393",
+        "connection": "keep-alive",
+        "set-cookie": "__cfduid=d8c2ba425a36f1bcdddc93ee3b3341f041465048251; expires=Sun, 04-Jun-17 13:50:51 GMT; path=/; domain=.licensebuttons.net; HttpOnly",
+        "cf-bgj": "imgq:100",
+        "etag": "\"1283-4f0c8c2319f40\"",
+        "last-modified": "Sat, 25 Jan 2014 10:15:49 GMT",
+        "cf-cache-status": "HIT",
+        "vary": "Accept-Encoding",
+        "expires": "Thu, 09 Jun 2016 13:50:51 GMT",
+        "cache-control": "public, max-age=432000",
+        "accept-ranges": "bytes",
+        "server": "cloudflare-nginx",
+        "cf-ray": "2adbdb35a2c2400e-SOF"
       }
     },
     {
@@ -901,16 +831,32 @@
         "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
         "pragma": "no-cache",
         "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:51 GMT",
         "p3p": "CP=\"This is not a P3P policy! See https://support.google.com/accounts/answer/151657?hl=en for more info.\"",
         "server": "ESF",
         "x-xss-protection": "1; mode=block",
         "x-frame-options": "SAMEORIGIN",
         "x-content-type-options": "nosniff",
-        "set-cookie": "NID=79=UevVn11LFVF_dlAMv5f8dTXl30bc8xa703slMxiqQDSc9WcnrR_lKMXxexUz-D0eY0MjeGmvhL92LsUSLz6eYYPCfApNuxCmRzL0p9nvxQ6JhOZt_kwXqHMylMHpD17o;Domain=.google.com;Path=/;Expires=Sun, 04-Dec-2016 13:47:56 GMT;HttpOnly",
+        "set-cookie": "NID=79=JRv0dl16DxTTVz2bqoDyUtJQrGWETLa_Ix0kesqp8FLd-ziB7uAnnkaDTf5wlyKw06z1WfO70EFrJwGF9j78L5jRM3qqHVTwrZtlGAXqR9hkV1UvgBA8er_Wf4aGQQm5;Domain=.google.com;Path=/;Expires=Sun, 04-Dec-2016 13:50:51 GMT;HttpOnly",
         "alternate-protocol": "443:quic",
         "alt-svc": "quic=\":443\"; ma=2592000; v=\"34,33,32,31,30,29,28,27,26,25\"",
         "transfer-encoding": "chunked"
+      }
+    },
+    {
+      "url": "https://s3.amazonaws.com/erlang-in-anger/book-cover.png",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "x-amz-id-2": "TJvbbtngPUu/lCoVY1bPgmYpNnCNrr7CyEEsaP+FZNz50OyCbMWFtQz85+U/7lA3uHd/izf9TY0=",
+        "x-amz-request-id": "8BF88F2DBC0086EA",
+        "date": "Sat, 04 Jun 2016 13:50:52 GMT",
+        "last-modified": "Mon, 15 Sep 2014 12:25:19 GMT",
+        "etag": "\"dade3eae99972da4a22a137561f886a8\"",
+        "accept-ranges": "bytes",
+        "content-type": "image/png",
+        "content-length": "131240",
+        "server": "AmazonS3"
       }
     },
     {
@@ -919,24 +865,80 @@
       "error": null,
       "headers": {
         "server": "GitHub.com",
-        "date": "Sat, 04 Jun 2016 13:47:56 GMT",
+        "date": "Sat, 04 Jun 2016 13:50:52 GMT",
         "content-type": "text/html; charset=utf-8",
         "transfer-encoding": "chunked",
         "status": "200 OK",
         "cache-control": "no-cache",
         "vary": "X-PJAX, Accept-Encoding",
         "x-ua-compatible": "IE=Edge,chrome=1",
-        "set-cookie": "_octo=GH1.1.162668445.1465048076; domain=.github.com; path=/; expires=Mon, 04 Jun 2018 13:47:56 -0000, logged_in=no; domain=.github.com; path=/; expires=Wed, 04 Jun 2036 13:47:56 -0000; secure; HttpOnly, _gh_sess=eyJzZXNzaW9uX2lkIjoiYjQxY2YzNDM0Y2E4NGJiM2FhYmQwZGNjZjFkZmFhMGYiLCJzcHlfcmVwbyI6InNnZXIvRWxpeGlyQm9va3MiLCJzcHlfcmVwb19hdCI6MTQ2NTA0ODA3NiwiX2NzcmZfdG9rZW4iOiJxWFFCY1o1Zjc1eHVaUDVrWlYrL29qTkoyb0ozNzlwMVVNdVpURWZOZ3RJPSJ9--19357f4ae75296baaf7266c625bd067848afb995; path=/; secure; HttpOnly",
-        "x-request-id": "1ba6cf7659fc2ebe007f3d75161884cb",
-        "x-runtime": "0.039087",
+        "set-cookie": "_octo=GH1.1.106697652.1465048252; domain=.github.com; path=/; expires=Mon, 04 Jun 2018 13:50:52 -0000, logged_in=no; domain=.github.com; path=/; expires=Wed, 04 Jun 2036 13:50:52 -0000; secure; HttpOnly, _gh_sess=eyJzZXNzaW9uX2lkIjoiMWM3MWQ0MDg2ZTg4NGM1MmJlOTIzYTNhYTRjZTkyZTAiLCJzcHlfcmVwbyI6InNnZXIvRWxpeGlyQm9va3MiLCJzcHlfcmVwb19hdCI6MTQ2NTA0ODI1MiwiX2NzcmZfdG9rZW4iOiJFWDlLeW9ra2s0cnp6cDg3eFRWamVmTmJQaXBNcTB5UXFiSzh2bERtQ3BnPSJ9--7dda7b5d4759f1e44f544dbd97afb89253dd11a0; path=/; secure; HttpOnly",
+        "x-request-id": "51ad20bf6fc7ed63c007c6c276af794d",
+        "x-runtime": "0.036909",
         "content-security-policy": "default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src render.githubusercontent.com; connect-src 'self' uploads.github.com status.github.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com wss://live.github.com; font-src assets-cdn.github.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: assets-cdn.github.com identicons.github.com www.google-analytics.com collector.githubapp.com *.gravatar.com *.wp.com *.githubusercontent.com; media-src 'none'; object-src assets-cdn.github.com; plugin-types application/x-shockwave-flash; script-src assets-cdn.github.com; style-src 'unsafe-inline' assets-cdn.github.com",
         "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
         "public-key-pins": "max-age=5184000; pin-sha256=\"WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=\"; pin-sha256=\"RRM1dGqnDFsCJXBTHky16vi1obOlCgFFn/yOhI/y+ho=\"; pin-sha256=\"k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws=\"; pin-sha256=\"K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q=\"; pin-sha256=\"IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4=\"; pin-sha256=\"iie1VXtL7HzAMF+/PVPR9xzT80kQxdZeJ+zduCB3uj0=\"; pin-sha256=\"LvRiGEjRqfzurezaWuj8Wie2gyHMrW5Q06LspMnox7A=\"; includeSubDomains",
         "x-content-type-options": "nosniff",
         "x-frame-options": "deny",
         "x-xss-protection": "1; mode=block",
-        "x-served-by": "9e87b28fb3a65e563c8d72545356c3e0",
-        "x-github-request-id": "C2DB8DB6:682B:19A2A50:5752DC0C"
+        "x-served-by": "87f5c5d7dd60f60a2cf951a9aeddef08",
+        "x-github-request-id": "C2DB8DB6:682A:152A92E:5752DCBB"
+      }
+    },
+    {
+      "url": "http://creativecommons.org/licenses/by/4.0/",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "date": "Sat, 04 Jun 2016 13:50:52 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive",
+        "set-cookie": "__cfduid=d3dfa907e621196793cb04330e99692981465048251; expires=Sun, 04-Jun-17 13:50:51 GMT; path=/; domain=.creativecommons.org; HttpOnly",
+        "vary": "Accept-Encoding",
+        "x-varnish": "387276256 387276233",
+        "age": "12",
+        "via": "1.1 varnish-v4",
+        "server": "cloudflare-nginx",
+        "cf-ray": "2adbdb34beaf4008-SOF"
+      }
+    },
+    {
+      "url": "https://www.reddit.com/r/elixir",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "date": "Sat, 04 Jun 2016 13:50:52 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "content-length": "20380",
+        "connection": "keep-alive",
+        "set-cookie": "__cfduid=d022108ffe77244a6599e24f259c350da1465048251; expires=Sun, 04-Jun-17 13:50:51 GMT; path=/; domain=.reddit.com; HttpOnly, loid=YBIxyKHrkd5MPdlmm0; Domain=reddit.com; Max-Age=63071999; Path=/; expires=Mon, 04-Jun-2018 13:50:52 GMT; secure, loidcreated=2016-06-04T13%3A50%3A51.790Z; Domain=reddit.com; Max-Age=63071999; Path=/; expires=Mon, 04-Jun-2018 13:50:52 GMT; secure",
+        "x-ua-compatible": "IE=edge",
+        "x-frame-options": "SAMEORIGIN",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "vary": "accept-encoding",
+        "cache-control": "max-age=0, must-revalidate",
+        "x-moose": "majestic",
+        "strict-transport-security": "max-age=15552000; includeSubDomains; preload",
+        "server": "cloudflare-nginx",
+        "cf-ray": "2adbdb353ee84002-SOF"
+      }
+    },
+    {
+      "url": "http://elixirkoans.io",
+      "status": 200,
+      "error": null,
+      "headers": {
+        "server": "GitHub.com",
+        "date": "Sat, 04 Jun 2016 13:50:52 GMT",
+        "content-type": "text/html; charset=utf-8",
+        "transfer-encoding": "chunked",
+        "last-modified": "Sat, 23 Apr 2016 15:27:15 GMT",
+        "access-control-allow-origin": "*",
+        "expires": "Sat, 04 Jun 2016 14:00:52 GMT",
+        "cache-control": "max-age=600",
+        "x-github-request-id": "C2DB8DB6:3614:187D907:5752DCBC"
       }
     }
   ]
