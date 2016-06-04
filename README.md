@@ -90,6 +90,12 @@ Don’t accept the compromise between fast and beautiful: you can have it all. P
 ###[Elixir Sips](http://elixirsips.com)
 ###[ExCasts](https://excasts.com)
 ###[LearnElixir.tv](https://www.learnelixir.tv/)
+###[Google+](https://plus.google.com/u/0/communities/115770991058707869622)
+###[Reddit](https://www.reddit.com/r/elixir)
+###[Stack Overflow](http://stackoverflow.com/questions/tagged/elixir)
+###[Exercism.io](http://exercism.io/languages/elixir)
+###[Functional Elixir Newsletter](http://newsletter.elixir-devs.com)
+###[Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 
 Contributing
 ====
