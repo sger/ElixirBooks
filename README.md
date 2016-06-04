@@ -75,6 +75,12 @@ Write code that writes code with Elixir macros. Macros make metaprogramming poss
 
 If you need to build a scalable, fault tolerant system with requirements for high availability, discover why the Erlang/OTP platform stands out for the breadth, depth, and consistency of its features. This hands-on guide demonstrates how to use the Erlang programming language and its OTP framework of reusable libraries, tools, and design principles to develop complex commercial-grade systems that simply cannot fail.
 
+###[Erlang and OTP in Action](https://www.manning.com/books/erlang-and-otp-in-action)
+
+<img src="https://images.manning.com/255/340/resize/book/f/d21069b-7a05-4be7-bcd8-7d38aff03e34/logan.png" width="120px"/>
+
+Erlang and OTP in Action teaches you the concepts of concurrent programming and the use of Erlang's message-passing model. It walks you through progressively more interesting examples, building systems in Erlang and integrating them with C/C++, Java, and .NET applications, including SOA and web architectures.
+
 **Web Development**
 ---
 
