@@ -56,7 +56,7 @@ The Little Elixir & OTP Guidebook gets you started programming applications with
 
 Elixir, based on Erlang’s virtual machine and ecosystem, makes it easier to achieve scalability, concurrency, fault tolerance, and high availability goals that are pursued by developers using any programming language or programming paradigm. Elixir is a modern programming language that utilizes the benefits offered by Erlang VM without really incorporating the complex syntaxes of Erlang.
 
-###[Programming Elixir](https://pragprog.com/book/elixir/programming-elixir)
+###[Programming Elixir 1.2](https://pragprog.com/book/elixir12/programming-elixir-1-2)
 
 <img src="http://ecx.images-amazon.com/images/I/51WfjWglDsL._SX404_BO1,204,203,200_.jpg" width="120px"/>
 
