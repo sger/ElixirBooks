@@ -87,6 +87,12 @@ If you need to build a scalable, fault tolerant system with requirements for hig
 
 Erlang and OTP in Action teaches you the concepts of concurrent programming and the use of Erlang's message-passing model. It walks you through progressively more interesting examples, building systems in Erlang and integrating them with C/C++, Java, and .NET applications, including SOA and web architectures.
 
+###[Programming Erlang](https://pragprog.com/book/jaerlang2/programming-erlang)
+
+<img src="http://ecx.images-amazon.com/images/I/41IbWEBsjbL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+
+A multi-user game, web site, cloud application, or networked database can have thousands of users all interacting at the same time. You need a powerful, industrial-strength tool to handle the really hard problems inherent in parallel, concurrent environments. You need Erlang. In this second edition of the bestselling Programming Erlang, you’ll learn how to write parallel programs that scale effortlessly on multicore systems.
+
 **Web Development**
 ---
 
