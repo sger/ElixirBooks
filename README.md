@@ -60,6 +60,12 @@ Elixir, based on Erlang’s virtual machine and ecosystem, makes it easier to ac
 
 You want to explore functional programming, but are put off by the academic feel (tell me about monads just one more time). You know you need concurrent applications, but also know these are almost impossible to get right. Meet Elixir, a functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. This book is the introduction to Elixir for experienced programmers.
 
+###[Learn You Some Erlang for Great Good](http://learnyousomeerlang.com)
+
+<img src="https://www.nostarch.com/sites/default/files/imagecache/product_main_page/erlang_newsmall.png" width="120px"/>
+
+Hey there! This is Learn You Some Erlang for great good! This book is for you if you’ve got some programming experience and if you’re not too familiar with functional programming. It can still be useful if you’re too good for that, as we progressively go into more and more advanced topics.
+
 **Advanced Books**
 ---
 
