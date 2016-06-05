@@ -110,6 +110,12 @@ This book intends to be a little guide about how to be the Erlang medic in a tim
 
 Don’t accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator José Valim, and award-winning author Bruce Tate walk you through building an application that’s fast and reliable. At every step, you’ll learn from the Phoenix creators not just what to do, but why. Packed with insider insights, this definitive guide will be your constant companion in your journey from Phoenix novice to expert, as you build the next generation of web applications.
 
+###[Building Web Applications with Erlang](http://shop.oreilly.com/product/0636920021452.do)
+
+<img src="http://akamaicovers.oreilly.com/images/0636920021452/cat.gif" width="120px"/>
+
+Why choose Erlang for web applications? Discover the answer hands-on by building a simple web service with this book. If you’re an experienced web developer who knows basic Erlang, you’ll learn how to work with REST, dynamic content, web sockets, and concurrency through several examples. In the process, you’ll see first-hand that Erlang is ideal for building business-critical services.
+
 **Resources**
 ====
 
