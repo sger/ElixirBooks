@@ -129,6 +129,7 @@ Why choose Erlang for web applications? Discover the answer hands-on by building
 ###[Functional Elixir Newsletter](http://newsletter.elixir-devs.com)
 ###[Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 ###[Elixir Koans](http://elixirkoans.io)
+###[Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
 
 Contributing
 ====
