@@ -101,6 +101,13 @@ A multi-user game, web site, cloud application, or networked database can have t
 
 This book intends to be a little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang.
 
+###[Building Scalable Applications with Erlang](https://www.amazon.com/Building-Scalable-Applications-Developers-Library/dp/0321636465?ie=UTF8&*Version*=1&*entries*=0)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51vXUFnH%2B6L._SX384_BO1,204,203,200_.jpg" width="120px"/>
+
+Erlang is emerging as a leading language for concurrent programming in mission-critical enterprise environments where applications must deliver exceptional reliability, availability, and scalability. It’s already used by organizations ranging from Facebook to Amazon, and many others are adopting or considering it.
+As a functional language, however, Erlang is radically different from conventional object-oriented languages like C++ and Java. This book quickly brings experienced object-oriented programmers up to speed with both Erlang and the principles of functional programming. Jerry Jackson thoroughly explains Erlang’s key concepts, principles, and features, bridging the conceptual gaps that often frustrate object developers. Next, he shows how to use Erlang to build massively-scalable real-world systems with up to “nine nines” availability: that is, up to 99.9999999% uptime. 
+
 **Web Development**
 ---
 
