@@ -14,6 +14,12 @@ Elixir Books
 **Starter Books**
 ----
 
+###[Getting Started](http://elixir-lang.org/getting-started/introduction.html) *Free*
+
+<img src="http://elixir-lang.org/images/logo/logo.png" width="180px" title="Elixir logo" />
+
+Official Elixir starting guide that will take you through the language foundations. You will also explore how to build projects with Mix and OTP, and it will introduce you to more advanvced techniques suchs as meta-programming.
+
 ###[Elixir School](http://elixirschool.com/) *Free*
 
 <img src="http://elixir-lang.org/images/learning/elixir-school.jpg" width="120px"/>
@@ -125,7 +131,6 @@ Why choose Erlang for web applications? Discover the answer hands-on by building
 
 **Resources**
 ====
-
 ###[Joe Armstrong - A week with Elixir](http://joearms.github.io/2013/05/31/a-week-with-elixir.html)
 ###[Elixir Sips](http://elixirsips.com)
 ###[ExCasts](https://excasts.com)
