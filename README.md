@@ -126,6 +126,7 @@ Why choose Erlang for web applications? Discover the answer hands-on by building
 **Resources**
 ====
 
+###[Elixir Website](http://elixir-lang.org)
 ###[Joe Armstrong - A week with Elixir](http://joearms.github.io/2013/05/31/a-week-with-elixir.html)
 ###[Elixir Sips](http://elixirsips.com)
 ###[ExCasts](https://excasts.com)
