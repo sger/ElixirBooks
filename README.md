@@ -1,5 +1,5 @@
-[![Build Status](https://api.travis-ci.org/sger/ElixirBooks.svg?branch=master)](https://travis-ci.org/sger/ElixirBooks)
-Table of Contents
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Contents
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
@@ -130,18 +130,19 @@ Why choose Erlang for web applications? Discover the answer hands-on by building
 
 **Resources**
 ====
-###[Joe Armstrong - A week with Elixir](http://joearms.github.io/2013/05/31/a-week-with-elixir.html)
-###[Elixir Sips](http://elixirsips.com)
-###[ExCasts](https://excasts.com)
-###[LearnElixir.tv](https://www.learnelixir.tv/)
-###[Google+](https://plus.google.com/communities/115770991058707869622)
-###[Reddit](https://www.reddit.com/r/elixir)
-###[Stack Overflow](http://stackoverflow.com/questions/tagged/elixir)
-###[Exercism.io](http://exercism.io/languages/elixir)
-###[Functional Elixir Newsletter](http://newsletter.elixir-devs.com)
-###[Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
-###[Elixir Koans](http://elixirkoans.io)
-###[Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
+* [Joe Armstrong - A week with Elixir](http://joearms.github.io/2013/05/31/a-week-with-elixir.html)
+* [Elixir Sips](http://elixirsips.com)
+* [ExCasts](https://excasts.com)
+* [LearnElixir.tv](https://www.learnelixir.tv/)
+* [Google+](https://plus.google.com/communities/115770991058707869622)
+* [Reddit](https://www.reddit.com/r/elixir)
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/elixir)
+* [Exercism.io](http://exercism.io/languages/elixir)
+* [Functional Elixir Newsletter](http://newsletter.elixir-devs.com)
+* [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
+* [Elixir Koans](http://elixirkoans.io)
+* [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
+* [awesome-elixir](https://github.com/h4cc/awesome-elixir)
 
 Contributing
 ====
