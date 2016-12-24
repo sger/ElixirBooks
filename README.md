@@ -113,6 +113,12 @@ This book intends to be a little guide about how to be the Erlang medic in a tim
 Erlang is emerging as a leading language for concurrent programming in mission-critical enterprise environments where applications must deliver exceptional reliability, availability, and scalability. It’s already used by organizations ranging from Facebook to Amazon, and many others are adopting or considering it.
 As a functional language, however, Erlang is radically different from conventional object-oriented languages like C++ and Java. This book quickly brings experienced object-oriented programmers up to speed with both Erlang and the principles of functional programming. Jerry Jackson thoroughly explains Erlang’s key concepts, principles, and features, bridging the conceptual gaps that often frustrate object developers. Next, he shows how to use Erlang to build massively-scalable real-world systems with up to “nine nines” availability: that is, up to 99.9999999% uptime. 
 
+###[Erlang and Elixir for Imperative Programmers](http://www.springer.com/la/book/9781484223932)
+
+<img src="https://images.springer.com/sgw/books/medium/9781484223932.jpg" width="120px"/>
+
+Learn and understand Erlang and Elixir and develop a working knowledge of the concepts of functional programming that underpin them. This book takes the author’s experience of taking on a project that required functional programming and real-time systems, breaks it down, and organizes it. You will get the necessary knowledge about differences to the languages you know, where to start, and where to go next.
+
 **Web Development**
 ---
 
