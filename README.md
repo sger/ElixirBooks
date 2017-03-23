@@ -102,7 +102,7 @@ A multi-user game, web site, cloud application, or networked database can have t
 
 ###[Erlang In Anger](http://www.erlang-in-anger.com/)
 
-<img src="https://s3.amazonaws.com/erlang-in-anger/book-cover.png" width="120px"/>
+<img src="https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/book-cover.png" width="120px"/>
 
 This book intends to be a little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang.
 
@@ -133,6 +133,12 @@ Don’t accept the compromise between fast and beautiful: you can have it all. P
 <img src="http://akamaicovers.oreilly.com/images/0636920021452/cat.gif" width="120px"/>
 
 Why choose Erlang for web applications? Discover the answer hands-on by building a simple web service with this book. If you’re an experienced web developer who knows basic Erlang, you’ll learn how to work with REST, dynamic content, web sockets, and concurrency through several examples. In the process, you’ll see first-hand that Erlang is ideal for building business-critical services.
+
+###[Functional Web Development with Elixir, OTP, and Phoenix ](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) 
+
+<img src="https://elixirforum.com/uploads/default/original/2X/3/3cb36d46e9598b8d21ac061e67335d034c849e30.jpg" width="120px"/>
+
+Elixir and Phoenix are generating tremendous excitement as an unbeatable platform for building modern web applications. Make the most of them as you build a stateful web app with Elixir and OTP. Model domain entities without an ORM or a database. Manage server state and keep your code clean with OTP Behaviours. Layer on a Phoenix web interface without coupling it to the business logic. Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways.
 
 **Resources**
 ====
