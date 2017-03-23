@@ -102,7 +102,7 @@ A multi-user game, web site, cloud application, or networked database can have t
 
 ###[Erlang In Anger](http://www.erlang-in-anger.com/)
 
-<img src="https://s3.amazonaws.com/erlang-in-anger/book-cover.png" width="120px"/>
+<img src="https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/book-cover.png" width="120px"/>
 
 This book intends to be a little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang.
 
