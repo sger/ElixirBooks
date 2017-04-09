@@ -156,6 +156,7 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
 * [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
+* [Elixir School](http://elixirschool.com/)
 
 Contributing
 ====
