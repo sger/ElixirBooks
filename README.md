@@ -157,6 +157,7 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 * [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
+* [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
 
 Contributing
 ====
