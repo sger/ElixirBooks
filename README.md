@@ -75,7 +75,7 @@ Hey there! This is Learn You Some Erlang for great good! This book is for you if
 
 ### [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)
 
-<img src="https://imagery.pragprog.com/products/500/cdc-elixir_xlargebeta.jpg?1489588161" width="120px"/>
+<img src="https://imagery.pragprog.com/products/500/cdc-elixir_xlargebeta.jpg" width="120px"/>
 
 Elixir’s straightforward syntax and this guided tour give you a clean, simple path to learn modern functional programming techniques. No previous functional programming experience required! This book walks you through the right concepts at the right pace, as you explore immutable values and explicit data transformation, functions, modules, recursive functions, pattern matching, high-order functions, polymorphism, and failure handling, all while avoiding side effects.
 
