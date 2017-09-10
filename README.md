@@ -82,6 +82,12 @@ Elixir’s straightforward syntax and this guided tour give you a clean, simple 
 **Advanced Books**
 ---
 
+### [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51nY9nCe0jL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+
+Your domain is rich and interconnected, and your API should be too. Upgrade your web API to GraphQL, leveraging its flexible queries to empower your users, and its declarative structure to simplify your code. Absinthe is the GraphQL toolkit for Elixir, a functional programming language designed to enable massive concurrency atop robust application architectures. Written by the creators of Absinthe, this book will help you take full advantage of these two groundbreaking technologies. Build your own flexible, high-performance APIs using step-by-step guidance and expert advice you won’t find anywhere else.
+
 ### [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
 
 <img src="http://elixir-lang.org/images/learning/metaprogramming-elixir.jpg" width="120px"/>
