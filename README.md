@@ -168,7 +168,6 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 * [Reddit](https://www.reddit.com/r/elixir)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/elixir)
 * [Exercism.io](http://exercism.io/languages/elixir)
-* [Functional Elixir Newsletter](http://newsletter.elixir-devs.com)
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
