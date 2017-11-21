@@ -160,7 +160,7 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 
 **Resources**
 ====
-* [Joe Armstrong - A week with Elixir](http://joearms.github.io/2013/05/31/a-week-with-elixir.html)
+* [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
 * [Elixir Sips](http://elixirsips.com)
 * [ExCasts](https://excasts.com)
 * [LearnElixir.tv](https://www.learnelixir.tv/)
