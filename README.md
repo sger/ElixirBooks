@@ -85,6 +85,12 @@ Hey there! This is Learn You Some Erlang for great good! This book is for you if
 
 Elixir’s straightforward syntax and this guided tour give you a clean, simple path to learn modern functional programming techniques. No previous functional programming experience required! This book walks you through the right concepts at the right pace, as you explore immutable values and explicit data transformation, functions, modules, recursive functions, pattern matching, high-order functions, polymorphism, and failure handling, all while avoiding side effects.
 
+### [Take Off With Elixir](https://bigmachine.io/products/take-off-with-elixir)
+
+<img src="https://cdn.shopify.com/s/files/1/2184/6525/products/cover_500_2048x.jpg?v=1504403907" width="120px"/>
+
+This isn’t your typical “let’s build a blog” situation. You’ll be working with me, the Dev Lead of the fictional Aerospace startup RED:4, as we dive into Elixir and conduct various scientific studies.
+
 **Advanced Books**
 ---
 
@@ -163,6 +169,12 @@ Why choose Erlang for web applications? Discover the answer hands-on by building
 <img src="https://elixirforum.com/uploads/default/original/2X/3/3cb36d46e9598b8d21ac061e67335d034c849e30.jpg" width="120px"/>
 
 Elixir and Phoenix are generating tremendous excitement as an unbeatable platform for building modern web applications. Make the most of them as you build a stateful web app with Elixir and OTP. Model domain entities without an ORM or a database. Manage server state and keep your code clean with OTP Behaviours. Layer on a Phoenix web interface without coupling it to the business logic. Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways.
+
+### [Elixir and Elm Tutorial](https://leanpub.com/elixir-elm-tutorial)
+
+<img src="https://s3.amazonaws.com/titlepages.leanpub.com/elixir-elm-tutorial/hero?1518079280" width="120px"/>
+
+Welcome to the world of functional web programming! In this book, we'll learn how to create fun, scalable, and maintainable web applications. We'll use the latest ideas from emerging languages like Elixir and Elm to craft a fun experience. Rather than focusing on theory, we'll take a practical approach and build a real-world application.
 
 **Resources**
 ====
