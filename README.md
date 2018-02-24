@@ -37,7 +37,7 @@ Elixir-School is an open and community driven effort inspired by Twitter’s Sca
 
 Elixir is an excellent language if you want to learn about functional programming, and with this hands-on introduction, you’ll discover just how powerful and fun Elixir can be. This language combines the robust functional programming of Erlang with a syntax similar to Ruby, and includes powerful features for metaprogramming.
 
-### [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) *Free*
+### [Études for Elixir](https://startlearningelixir.com/r/etudes-for-elixir) *Free*
 
 <img src="http://orm-other.s3.amazonaws.com/elixir_etudes_splash/cover.jpg" width="120px"/>
 
