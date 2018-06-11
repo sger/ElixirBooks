@@ -176,6 +176,14 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 
 Welcome to the world of functional web programming! In this book, we'll learn how to create fun, scalable, and maintainable web applications. We'll use the latest ideas from emerging languages like Elixir and Elm to craft a fun experience. Rather than focusing on theory, we'll take a practical approach and build a real-world application.
 
+### [Phoenix Web Development](https://www.packtpub.com/web-development/phoenix-web-development)
+
+<img src="https://www.packtpub.com/sites/default/files/B06393.png" width="120px"/>
+
+Phoenix is a modern web development framework that is used to build API’s and web applications. It is built on Elixir and runs on Erlang VM which makes it much faster than other options. With Elixir and Phoenix, you build your application the right way, ready to scale and ready for the increasing demands of real-time web applications.
+
+This book covers the basics of the Phoenix web framework, showing you how to build a community voting application, and is divided into three parts. In the first part, you will be introduced to Phoenix and Elixir and understand the core terminologies that are used to describe them. You will also learn to build controller pages, store and retrieve data, add users to your app pages and protect your database. In the second section you will be able to reinforce your knowledge of architecting real time applications in phoenix and not only debug these applications but also diagnose issues in them. In the third and final section you will have the complete understanding of deploying and running the phoenix application and should be comfortable to make your first application release
+
 **Resources**
 ====
 * [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
