@@ -188,7 +188,6 @@ This book covers the basics of the Phoenix web framework, showing you how to bui
 ====
 * [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
 * [Elixir Sips](http://elixirsips.com)
-* [ExCasts](https://excasts.com)
 * [LearnElixir.tv](https://www.learnelixir.tv/)
 * [Google+](https://plus.google.com/communities/115770991058707869622)
 * [Reddit](https://www.reddit.com/r/elixir)
