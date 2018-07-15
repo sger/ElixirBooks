@@ -184,6 +184,12 @@ Phoenix is a modern web development framework that is used to build API’s and 
 
 This book covers the basics of the Phoenix web framework, showing you how to build a community voting application, and is divided into three parts. In the first part, you will be introduced to Phoenix and Elixir and understand the core terminologies that are used to describe them. You will also learn to build controller pages, store and retrieve data, add users to your app pages and protect your database. In the second section you will be able to reinforce your knowledge of architecting real time applications in phoenix and not only debug these applications but also diagnose issues in them. In the third and final section you will have the complete understanding of deploying and running the phoenix application and should be comfortable to make your first application release
 
+### [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto)
+
+<img src="http://t0.gstatic.com/images?q=tbn:ANd9GcQUUcSk4IxNOt5NtrhrcT3BwiKwb9SC3cBQWE9zIpLeeWNPlgJ2" width="120px"/>
+
+Languages may come and go, but the relational database endures. Learn how to use Ecto, the premier database library for Elixir, to connect your Elixir and Phoenix apps to databases. Get a firm handle on Ecto fundamentals with a module-by-module tour of the critical parts of Ecto. Then move on to more advanced topics and advice on best practices with a series of recipes that provide clear,step-by-step instructions on scenarios commonly encountered by app developers. Co-authored by the creator of Ecto, this title provides all the essentials you need to use Ecto effectively.
+
 **Resources**
 ====
 * [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
