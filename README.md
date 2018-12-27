@@ -145,7 +145,7 @@ Learn and understand Erlang and Elixir and develop a working knowledge of the co
 
 ### [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir)
 
-<img src="https://imagery.pragprog.com/products/551/fhproper_xlargebeta.jpg?1531161955" width="120px"/>
+<img src="https://propertesting.com/img/fhproper-sm.jpg" width="120px"/>
 
 Property-based testing helps you create better, more solid tests with little code. By using the PropEr framework in both Erlang and Elixir, this book teaches you how to automatically generate test cases, test stateful programs, and change how you design your software for more principled and reliable approaches. You will be able to better explore the problem space, validate the assumptions you make when coming up with program behavior, and expose unexpected weaknesses in your design. PropEr will even show you how to reproduce the bugs it found. With this book, you will be writing efficient property-based tests in no time.
 
