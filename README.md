@@ -143,6 +143,12 @@ As a functional language, however, Erlang is radically different from convention
 
 Learn and understand Erlang and Elixir and develop a working knowledge of the concepts of functional programming that underpin them. This book takes the author’s experience of taking on a project that required functional programming and real-time systems, breaks it down, and organizes it. You will get the necessary knowledge about differences to the languages you know, where to start, and where to go next.
 
+### [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir)
+
+<img src="https://imagery.pragprog.com/products/551/fhproper_xlargebeta.jpg?1531161955" width="120px"/>
+
+Property-based testing helps you create better, more solid tests with little code. By using the PropEr framework in both Erlang and Elixir, this book teaches you how to automatically generate test cases, test stateful programs, and change how you design your software for more principled and reliable approaches. You will be able to better explore the problem space, validate the assumptions you make when coming up with program behavior, and expose unexpected weaknesses in your design. PropEr will even show you how to reproduce the bugs it found. With this book, you will be writing efficient property-based tests in no time.
+
 **Web Development**
 ---
 
