@@ -172,7 +172,7 @@ Don’t accept the compromise between fast and beautiful: you can have it all. P
 
 ### [Phoenix in Action](https://www.manning.com/books/phoenix-in-action)
 
-<img src="https://images.manning.com/720/960/resize/book/6/0bad159-5a00-4aa9-b4b1-17cfe2fd7455/Lessel-Phoenix-MEAP-HI.png" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/41V2OUmPO8L._SX397_BO1,204,203,200_.jpg" width="120px"/>
 
 Phoenix is a modern web framework built for the Elixir programming language. Elegant, fault-tolerant, and performant, Phoenix is as easy to use as Rails and as rock-solid as Elixir's Erlang-based foundation. Phoenix in Action builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elixir to get the job done.
 
