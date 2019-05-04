@@ -94,6 +94,12 @@ This isn’t your typical “let’s build a blog” situation. You’ll be work
 **Advanced Books**
 ---
 
+### [Designing Elixir Systems with OTP](https://pragprog.com/book/jgotp/designing-elixir-systems-with-otp)
+
+<img src="https://imagery.pragprog.com/products/526/jgotp.jpg?1555091466" width="120px"/>
+
+You know how to code in Elixir; now learn to think in it. Learn to design libraries with intelligent layers that shape the right data structures, flow from one function into the next,and present the right APIs. Embrace the same OTP that’s kept our telephone systems reliable and fast for over 30 years. Move beyond understanding the OTP functions to knowing what’s happening under the hood, and why that matters. Using that knowledge, instinctively know how to design systems that deliver fast and resilient services to your users, all with an Elixir focus.
+
 ### [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51nY9nCe0jL._SX415_BO1,204,203,200_.jpg" width="120px"/>
