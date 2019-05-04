@@ -155,6 +155,12 @@ Learn and understand Erlang and Elixir and develop a working knowledge of the co
 
 Property-based testing helps you create better, more solid tests with little code. By using the PropEr framework in both Erlang and Elixir, this book teaches you how to automatically generate test cases, test stateful programs, and change how you design your software for more principled and reliable approaches. You will be able to better explore the problem space, validate the assumptions you make when coming up with program behavior, and expose unexpected weaknesses in your design. PropEr will even show you how to reproduce the bugs it found. With this book, you will be writing efficient property-based tests in no time.
 
+### [Mastering Elixir](https://www.packtpub.com/application-development/mastering-elixir)
+
+<img src="https://www.packtpub.com/sites/default/files/B08557.png" width="120px"/>
+
+In this book you will learn how to build a rock-solid file hosting service on top of both Erlang’s OTP and using Elixir own abstractions, that allow you to build applications that are easy to parallelize and distribute. You'll use GenStage to process file uploads, and you'll then simplify it by implementing a DSL. You will use Phoenix to expose your application to the world. Upon finishing implementation, you will learn how to take your application to the cloud, using Kubernetes to automatically deploy, scale and manage it. Last, but not least, you will keep your peace of mind by both learning how to thoroughly test and then monitor your application when it goes live.
+
 **Web Development**
 ---
 
