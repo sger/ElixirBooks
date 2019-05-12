@@ -91,6 +91,14 @@ Elixir’s straightforward syntax and this guided tour give you a clean, simple 
 
 This isn’t your typical “let’s build a blog” situation. You’ll be working with me, the Dev Lead of the fictional Aerospace startup RED:4, as we dive into Elixir and conduct various scientific studies.
 
+
+### [Elixir succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) *Free* 
+
+<img src="https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/elixir-succinctly.png" width="120px"/>
+
+This is a introductionary book about Elixir and OTP, written to go straight to the point. Almost 100 pages to learn the language and the platform.
+
+
 **Advanced Books**
 ---
 
