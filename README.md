@@ -98,6 +98,12 @@ This isn’t your typical “let’s build a blog” situation. You’ll be work
 
 This is a introductionary book about Elixir and OTP, written to go straight to the point. Almost 100 pages to learn the language and the platform.
 
+### [The Ultimate Guide For Making the Jump To Elixir](https://www.amazon.com/Ultimate-Guide-Making-Jump-Elixir-ebook/dp/B07DH4G7X2)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51Ipbs%2BRkOL.jpg" width="120px"/>
+
+Want to learn an up and coming functional programming language? Check out Elixir, designed by Ruby on Rails core team member Jose Valim. If you have a full-time day job, a family, or other pressing commitments, taking hours out of your week to read blog posts or spending the time to contribute to open source could be a deal breaker for you. This book helps to get you up to speed with what you need to know.
+
 
 **Advanced Books**
 ---
