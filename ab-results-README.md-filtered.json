@@ -1,0 +1,9 @@
+[
+  {
+    "loc": 231,
+    "status": -1,
+    "link": "https://www.reddit.com/r/elixir",
+    "redirect": "",
+    "error": "Failed to open TCP connection to www.reddit.com:443 (getaddrinfo: nodename nor servname provided, or not known)"
+  }
+]

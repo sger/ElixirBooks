@@ -85,9 +85,9 @@ Hey there! This is Learn You Some Erlang for great good! This book is for you if
 
 Elixir’s straightforward syntax and this guided tour give you a clean, simple path to learn modern functional programming techniques. No previous functional programming experience required! This book walks you through the right concepts at the right pace, as you explore immutable values and explicit data transformation, functions, modules, recursive functions, pattern matching, high-order functions, polymorphism, and failure handling, all while avoiding side effects.
 
-### [Take Off With Elixir](https://bigmachine.io/products/take-off-with-elixir)
+### [Take Off With Elixir](https://startlearningelixir.com/r/take-off-with-elixir)
 
-<img src="https://cdn.shopify.com/s/files/1/2184/6525/products/cover_500_2048x.jpg?v=1504403907" width="120px"/>
+<img src="https://startlearningelixir.com/images/resources/take-off-with-elixir-4c474927f8e6533e07bf2a8f18194d54.jpg?vsn=d" width="120px"/>
 
 This isn’t your typical “let’s build a blog” situation. You’ll be working with me, the Dev Lead of the fictional Aerospace startup RED:4, as we dive into Elixir and conduct various scientific studies.
 
@@ -171,7 +171,7 @@ Property-based testing helps you create better, more solid tests with little cod
 
 ### [Mastering Elixir](https://www.packtpub.com/application-development/mastering-elixir)
 
-<img src="https://www.packtpub.com/sites/default/files/B08557.png" width="120px"/>
+<img src="https://m.media-amazon.com/images/I/71tefP6w+RL._AC_UL320_SEARCH213888_ML3_.jpg" width="120px"/>
 
 In this book you will learn how to build a rock-solid file hosting service on top of both Erlang’s OTP and using Elixir own abstractions, that allow you to build applications that are easy to parallelize and distribute. You'll use GenStage to process file uploads, and you'll then simplify it by implementing a DSL. You will use Phoenix to expose your application to the world. Upon finishing implementation, you will learn how to take your application to the cloud, using Kubernetes to automatically deploy, scale and manage it. Last, but not least, you will keep your peace of mind by both learning how to thoroughly test and then monitor your application when it goes live.
 
@@ -210,7 +210,7 @@ Welcome to the world of functional web programming! In this book, we'll learn ho
 
 ### [Phoenix Web Development](https://www.packtpub.com/web-development/phoenix-web-development)
 
-<img src="https://www.packtpub.com/sites/default/files/B06393.png" width="120px"/>
+<img src="https://m.media-amazon.com/images/I/61ZnmYx28ML._AC_UY218_SEARCH213888_ML3_.jpg" width="120px"/>
 
 Phoenix is a modern web development framework that is used to build API’s and web applications. It is built on Elixir and runs on Erlang VM which makes it much faster than other options. With Elixir and Phoenix, you build your application the right way, ready to scale and ready for the increasing demands of real-time web applications.
 
@@ -218,7 +218,7 @@ This book covers the basics of the Phoenix web framework, showing you how to bui
 
 ### [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto)
 
-<img src="http://t0.gstatic.com/images?q=tbn:ANd9GcQUUcSk4IxNOt5NtrhrcT3BwiKwb9SC3cBQWE9zIpLeeWNPlgJ2" width="120px"/>
+<img src="https://m.media-amazon.com/images/I/81U41AFtHeL._AC_UY218_SEARCH213888_ML3_.jpg" width="120px"/>
 
 Languages may come and go, but the relational database endures. Learn how to use Ecto, the premier database library for Elixir, to connect your Elixir and Phoenix apps to databases. Get a firm handle on Ecto fundamentals with a module-by-module tour of the critical parts of Ecto. Then move on to more advanced topics and advice on best practices with a series of recipes that provide clear,step-by-step instructions on scenarios commonly encountered by app developers. Co-authored by the creator of Ecto, this title provides all the essentials you need to use Ecto effectively.
 

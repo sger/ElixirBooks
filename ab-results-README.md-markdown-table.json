@@ -1,3 +1,5 @@
 {
-  "error": false
+  "error": true,
+  "title": "Found 1 link issue",
+  "message": "#### Link issue by [`awesome_bot`](https://github.com/dkhamsing/awesome_bot)\n\n  Line | Status | Link\n| ---: | :----: | --- |\n231 | Error | https://www.reddit.com/r/elixir <br> Failed to open TCP connection to www.reddit.com:443 (getaddrinfo: nodename nor servname provided, or not known)\n"
 }
