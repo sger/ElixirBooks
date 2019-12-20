@@ -177,29 +177,11 @@ Property-based testing helps you create better, more solid tests with little cod
 **Web Development**
 ---
 
-### [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
-
-<img src="http://ecx.images-amazon.com/images/I/41pPn50VnvL._SX415_BO1,204,203,200_.jpg" width="120px"/>
-
-Don’t accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator José Valim, and award-winning author Bruce Tate walk you through building an application that’s fast and reliable. At every step, you’ll learn from the Phoenix creators not just what to do, but why. Packed with insider insights, this definitive guide will be your constant companion in your journey from Phoenix novice to expert, as you build the next generation of web applications.
-
-### [Phoenix in Action](https://www.manning.com/books/phoenix-in-action)
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/41V2OUmPO8L._SX397_BO1,204,203,200_.jpg" width="120px"/>
-
-Phoenix is a modern web framework built for the Elixir programming language. Elegant, fault-tolerant, and performant, Phoenix is as easy to use as Rails and as rock-solid as Elixir's Erlang-based foundation. Phoenix in Action builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elixir to get the job done.
-
 ### [Building Web Applications with Erlang](http://shop.oreilly.com/product/0636920021452.do)
 
 <img src="http://akamaicovers.oreilly.com/images/0636920021452/cat.gif" width="120px"/>
 
 Why choose Erlang for web applications? Discover the answer hands-on by building a simple web service with this book. If you’re an experienced web developer who knows basic Erlang, you’ll learn how to work with REST, dynamic content, web sockets, and concurrency through several examples. In the process, you’ll see first-hand that Erlang is ideal for building business-critical services.
-
-### [Functional Web Development with Elixir, OTP, and Phoenix ](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix)
-
-<img src="https://elixirforum.com/uploads/default/original/2X/3/3cb36d46e9598b8d21ac061e67335d034c849e30.jpg" width="120px"/>
-
-Elixir and Phoenix are generating tremendous excitement as an unbeatable platform for building modern web applications. Make the most of them as you build a stateful web app with Elixir and OTP. Model domain entities without an ORM or a database. Manage server state and keep your code clean with OTP Behaviours. Layer on a Phoenix web interface without coupling it to the business logic. Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways.
 
 ### [Elixir and Elm Tutorial](https://leanpub.com/elixir-elm-tutorial)
 
@@ -207,19 +189,37 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 
 Welcome to the world of functional web programming! In this book, we'll learn how to create fun, scalable, and maintainable web applications. We'll use the latest ideas from emerging languages like Elixir and Elm to craft a fun experience. Rather than focusing on theory, we'll take a practical approach and build a real-world application.
 
+### [Functional Web Development with Elixir, OTP, and Phoenix ](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix)
+
+<img src="https://elixirforum.com/uploads/default/original/2X/3/3cb36d46e9598b8d21ac061e67335d034c849e30.jpg" width="120px"/>
+
+Elixir and Phoenix are generating tremendous excitement as an unbeatable platform for building modern web applications. Make the most of them as you build a stateful web app with Elixir and OTP. Model domain entities without an ORM or a database. Manage server state and keep your code clean with OTP Behaviours. Layer on a Phoenix web interface without coupling it to the business logic. Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways.
+
+### [Phoenix in Action](https://www.manning.com/books/phoenix-in-action)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41V2OUmPO8L._SX397_BO1,204,203,200_.jpg" width="120px"/>
+
+Phoenix is a modern web framework built for the Elixir programming language. Elegant, fault-tolerant, and performant, Phoenix is as easy to use as Rails and as rock-solid as Elixir's Erlang-based foundation. Phoenix in Action builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elixir to get the job done.
+
 ### [Phoenix Web Development](https://www.packtpub.com/web-development/phoenix-web-development)
 
 <img src="https://m.media-amazon.com/images/I/61ZnmYx28ML._AC_UY218_SEARCH213888_ML3_.jpg" width="120px"/>
 
 Phoenix is a modern web development framework that is used to build API’s and web applications. It is built on Elixir and runs on Erlang VM which makes it much faster than other options. With Elixir and Phoenix, you build your application the right way, ready to scale and ready for the increasing demands of real-time web applications.
 
-This book covers the basics of the Phoenix web framework, showing you how to build a community voting application, and is divided into three parts. In the first part, you will be introduced to Phoenix and Elixir and understand the core terminologies that are used to describe them. You will also learn to build controller pages, store and retrieve data, add users to your app pages and protect your database. In the second section you will be able to reinforce your knowledge of architecting real time applications in phoenix and not only debug these applications but also diagnose issues in them. In the third and final section you will have the complete understanding of deploying and running the phoenix application and should be comfortable to make your first application release
+This book covers the basics of the Phoenix web framework, showing you how to build a community voting application, and is divided into three parts. In the first part, you will be introduced to Phoenix and Elixir and understand the core terminologies that are used to describe them. You will also learn to build controller pages, store and retrieve data, add users to your app pages and protect your database. In the second section you will be able to reinforce your knowledge of architecting real time applications in phoenix and not only debug these applications but also diagnose issues in them. In the third and final section you will have the complete understanding of deploying and running the phoenix application and should be comfortable to make your first application release.
 
 ### [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto)
 
 <img src="https://m.media-amazon.com/images/I/81U41AFtHeL._AC_UY218_SEARCH213888_ML3_.jpg" width="120px"/>
 
 Languages may come and go, but the relational database endures. Learn how to use Ecto, the premier database library for Elixir, to connect your Elixir and Phoenix apps to databases. Get a firm handle on Ecto fundamentals with a module-by-module tour of the critical parts of Ecto. Then move on to more advanced topics and advice on best practices with a series of recipes that provide clear,step-by-step instructions on scenarios commonly encountered by app developers. Co-authored by the creator of Ecto, this title provides all the essentials you need to use Ecto effectively.
+
+### [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
+
+<img src="http://ecx.images-amazon.com/images/I/41pPn50VnvL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+
+Don’t accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator José Valim, and award-winning author Bruce Tate walk you through building an application that’s fast and reliable. At every step, you’ll learn from the Phoenix creators not just what to do, but why. Packed with insider insights, this definitive guide will be your constant companion in your journey from Phoenix novice to expert, as you build the next generation of web applications.
 
 **Resources**
 ====
