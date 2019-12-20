@@ -1,117 +1,12 @@
 [
   {
-    "loc": 24,
-    "status": 301,
-    "link": "https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/3964_Elixir%20Cookbook_Cover_1.jpg",
-    "redirect": "https://www.packtpub.com/",
-    "error": ""
-  },
-  {
-    "loc": 36,
-    "status": 301,
-    "link": "http://elixir-lang.org/images/learning/elixir-school.jpg",
-    "redirect": "https://elixir-lang.org/images/learning/elixir-school.jpg",
-    "error": ""
-  },
-  {
-    "loc": 52,
-    "status": 301,
-    "link": "http://elixir-lang.org/getting-started/introduction.html",
-    "redirect": "https://elixir-lang.org/getting-started/introduction.html",
-    "error": ""
-  },
-  {
-    "loc": 54,
-    "status": 301,
-    "link": "http://elixir-lang.org/images/logo/logo.png",
-    "redirect": "https://elixir-lang.org/images/logo/logo.png",
-    "error": ""
-  },
-  {
-    "loc": 70,
-    "status": 301,
-    "link": "http://learnyousomeerlang.com",
-    "redirect": "https://learnyousomeerlang.com/",
-    "error": ""
-  },
-  {
-    "loc": 72,
-    "status": 301,
-    "link": "https://www.nostarch.com/sites/default/files/imagecache/product_main_page/erlang_newsmall.png",
-    "redirect": "https://nostarch.com/sites/default/files/imagecache/product_main_page/erlang_newsmall.png",
-    "error": ""
-  },
-  {
-    "loc": 78,
-    "status": 301,
-    "link": "https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B04907_MockupCover_Normal.jpg",
-    "redirect": "https://www.packtpub.com/",
-    "error": ""
-  },
-  {
-    "loc": 130,
-    "status": 301,
-    "link": "http://elixir-lang.org/images/learning/metaprogramming-elixir.jpg",
-    "redirect": "https://elixir-lang.org/images/learning/metaprogramming-elixir.jpg",
-    "error": ""
-  },
-  {
-    "loc": 152,
-    "status": 301,
-    "link": "https://www.amazon.com/Building-Scalable-Applications-Developers-Library/dp/0321636465?ie=UTF8&*Version*=1&*entries*=0",
-    "redirect": "https://www.amazon.com/Building-Scalable-Applications-Developers-Library/dp/0321636465",
-    "error": ""
-  },
-  {
-    "loc": 159,
-    "status": 301,
-    "link": "http://www.springer.com/la/book/9781484223932",
-    "redirect": "https://www.springer.com/la/book/9781484223932",
-    "error": ""
-  },
-  {
-    "loc": 229,
-    "status": 302,
-    "link": "https://plus.google.com/communities/115770991058707869622",
-    "redirect": "https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/communities/115770991058707869622&followup=https://plus.google.com/communities/115770991058707869622",
-    "error": ""
-  },
-  {
-    "loc": 230,
-    "status": 301,
-    "link": "https://www.reddit.com/r/elixir",
-    "redirect": "https://www.reddit.com/r/elixir/",
-    "error": ""
-  },
-  {
-    "loc": 231,
-    "status": 301,
-    "link": "http://stackoverflow.com/questions/tagged/elixir",
-    "redirect": "https://stackoverflow.com/questions/tagged/elixir",
-    "error": ""
-  },
-  {
-    "loc": 232,
-    "status": 302,
-    "link": "http://exercism.io/languages/elixir",
-    "redirect": "https://exercism.io:443/languages/elixir",
-    "error": ""
-  },
-  {
-    "loc": 247,
-    "status": 301,
-    "link": "http://creativecommons.org/licenses/by/4.0/",
-    "redirect": "https://creativecommons.org/licenses/by/4.0/",
-    "error": ""
-  },
-  {
     "loc": 34,
     "link": "http://elixirschool.com/",
     "error": "Dupe"
   },
   {
-    "loc": 247,
-    "link": "http://creativecommons.org/licenses/by/4.0/",
+    "loc": 246,
+    "link": "https://creativecommons.org/licenses/by/4.0/",
     "error": "Dupe"
   }
 ]
