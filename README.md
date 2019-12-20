@@ -107,6 +107,13 @@ Want to learn an up and coming functional programming language? Check out Elixir
 **Advanced Books**
 ---
 
+### [Building Scalable Applications with Erlang](https://www.amazon.com/Building-Scalable-Applications-Developers-Library/dp/0321636465?ie=UTF8&*Version*=1&*entries*=0)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51vXUFnH%2B6L._SX384_BO1,204,203,200_.jpg" width="120px"/>
+
+Erlang is emerging as a leading language for concurrent programming in mission-critical enterprise environments where applications must deliver exceptional reliability, availability, and scalability. It’s already used by organizations ranging from Facebook to Amazon, and many others are adopting or considering it.
+As a functional language, however, Erlang is radically different from conventional object-oriented languages like C++ and Java. This book quickly brings experienced object-oriented programmers up to speed with both Erlang and the principles of functional programming. Jerry Jackson thoroughly explains Erlang’s key concepts, principles, and features, bridging the conceptual gaps that often frustrate object developers. Next, he shows how to use Erlang to build massively-scalable real-world systems with up to “nine nines” availability: that is, up to 99.9999999% uptime.
+
 ### [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51nY9nCe0jL._SX415_BO1,204,203,200_.jpg" width="120px"/>
@@ -125,17 +132,11 @@ You know how to code in Elixir; now learn to think in it. Learn to design librar
 
 If you need to build a scalable, fault tolerant system with requirements for high availability, discover why the Erlang/OTP platform stands out for the breadth, depth, and consistency of its features. This hands-on guide demonstrates how to use the Erlang programming language and its OTP framework of reusable libraries, tools, and design principles to develop complex commercial-grade systems that simply cannot fail.
 
-### [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
+### [Erlang and Elixir for Imperative Programmers](http://www.springer.com/la/book/9781484223932)
 
-<img src="http://elixir-lang.org/images/learning/metaprogramming-elixir.jpg" width="120px"/>
+<img src="https://images.springer.com/sgw/books/medium/9781484223932.jpg" width="120px"/>
 
-Write code that writes code with Elixir macros. Macros make metaprogramming possible and define the language itself. In this book, you’ll learn how to use macros to extend the language with fast, maintainable code and share functionality in ways you never thought possible. You’ll discover how to extend Elixir with your own first-class features, optimize performance, and create domain-specific languages.
-
-### [Erlang In Anger](http://www.erlang-in-anger.com/)
-
-<img src="https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/book-cover.png" width="120px"/>
-
-This book intends to be a little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang.
+Learn and understand Erlang and Elixir and develop a working knowledge of the concepts of functional programming that underpin them. This book takes the author’s experience of taking on a project that required functional programming and real-time systems, breaks it down, and organizes it. You will get the necessary knowledge about differences to the languages you know, where to start, and where to go next.
 
 ### [Erlang and OTP in Action](https://www.manning.com/books/erlang-and-otp-in-action)
 
@@ -143,36 +144,35 @@ This book intends to be a little guide about how to be the Erlang medic in a tim
 
 Erlang and OTP in Action teaches you the concepts of concurrent programming and the use of Erlang's message-passing model. It walks you through progressively more interesting examples, building systems in Erlang and integrating them with C/C++, Java, and .NET applications, including SOA and web architectures.
 
-### [Programming Erlang](https://pragprog.com/book/jaerlang2/programming-erlang)
+### [Erlang In Anger](http://www.erlang-in-anger.com/)
 
-<img src="http://ecx.images-amazon.com/images/I/41IbWEBsjbL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+<img src="https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/book-cover.png" width="120px"/>
 
-A multi-user game, web site, cloud application, or networked database can have thousands of users all interacting at the same time. You need a powerful, industrial-strength tool to handle the really hard problems inherent in parallel, concurrent environments. You need Erlang. In this second edition of the bestselling Programming Erlang, you’ll learn how to write parallel programs that scale effortlessly on multicore systems.
-
-### [Building Scalable Applications with Erlang](https://www.amazon.com/Building-Scalable-Applications-Developers-Library/dp/0321636465?ie=UTF8&*Version*=1&*entries*=0)
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51vXUFnH%2B6L._SX384_BO1,204,203,200_.jpg" width="120px"/>
-
-Erlang is emerging as a leading language for concurrent programming in mission-critical enterprise environments where applications must deliver exceptional reliability, availability, and scalability. It’s already used by organizations ranging from Facebook to Amazon, and many others are adopting or considering it.
-As a functional language, however, Erlang is radically different from conventional object-oriented languages like C++ and Java. This book quickly brings experienced object-oriented programmers up to speed with both Erlang and the principles of functional programming. Jerry Jackson thoroughly explains Erlang’s key concepts, principles, and features, bridging the conceptual gaps that often frustrate object developers. Next, he shows how to use Erlang to build massively-scalable real-world systems with up to “nine nines” availability: that is, up to 99.9999999% uptime.
-
-### [Erlang and Elixir for Imperative Programmers](http://www.springer.com/la/book/9781484223932)
-
-<img src="https://images.springer.com/sgw/books/medium/9781484223932.jpg" width="120px"/>
-
-Learn and understand Erlang and Elixir and develop a working knowledge of the concepts of functional programming that underpin them. This book takes the author’s experience of taking on a project that required functional programming and real-time systems, breaks it down, and organizes it. You will get the necessary knowledge about differences to the languages you know, where to start, and where to go next.
-
-### [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir)
-
-<img src="https://propertesting.com/img/fhproper-sm.jpg" width="120px"/>
-
-Property-based testing helps you create better, more solid tests with little code. By using the PropEr framework in both Erlang and Elixir, this book teaches you how to automatically generate test cases, test stateful programs, and change how you design your software for more principled and reliable approaches. You will be able to better explore the problem space, validate the assumptions you make when coming up with program behavior, and expose unexpected weaknesses in your design. PropEr will even show you how to reproduce the bugs it found. With this book, you will be writing efficient property-based tests in no time.
+This book intends to be a little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang.
 
 ### [Mastering Elixir](https://www.packtpub.com/application-development/mastering-elixir)
 
 <img src="https://m.media-amazon.com/images/I/71tefP6w+RL._AC_UL320_SEARCH213888_ML3_.jpg" width="120px"/>
 
 In this book you will learn how to build a rock-solid file hosting service on top of both Erlang’s OTP and using Elixir own abstractions, that allow you to build applications that are easy to parallelize and distribute. You'll use GenStage to process file uploads, and you'll then simplify it by implementing a DSL. You will use Phoenix to expose your application to the world. Upon finishing implementation, you will learn how to take your application to the cloud, using Kubernetes to automatically deploy, scale and manage it. Last, but not least, you will keep your peace of mind by both learning how to thoroughly test and then monitor your application when it goes live.
+
+### [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
+
+<img src="http://elixir-lang.org/images/learning/metaprogramming-elixir.jpg" width="120px"/>
+
+Write code that writes code with Elixir macros. Macros make metaprogramming possible and define the language itself. In this book, you’ll learn how to use macros to extend the language with fast, maintainable code and share functionality in ways you never thought possible. You’ll discover how to extend Elixir with your own first-class features, optimize performance, and create domain-specific languages.
+
+### [Programming Erlang](https://pragprog.com/book/jaerlang2/programming-erlang)
+
+<img src="http://ecx.images-amazon.com/images/I/41IbWEBsjbL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+
+A multi-user game, web site, cloud application, or networked database can have thousands of users all interacting at the same time. You need a powerful, industrial-strength tool to handle the really hard problems inherent in parallel, concurrent environments. You need Erlang. In this second edition of the bestselling Programming Erlang, you’ll learn how to write parallel programs that scale effortlessly on multicore systems.
+
+### [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir)
+
+<img src="https://propertesting.com/img/fhproper-sm.jpg" width="120px"/>
+
+Property-based testing helps you create better, more solid tests with little code. By using the PropEr framework in both Erlang and Elixir, this book teaches you how to automatically generate test cases, test stateful programs, and change how you design your software for more principled and reliable approaches. You will be able to better explore the problem space, validate the assumptions you make when coming up with program behavior, and expose unexpected weaknesses in your design. PropEr will even show you how to reproduce the bugs it found. With this book, you will be writing efficient property-based tests in no time.
 
 **Web Development**
 ---
