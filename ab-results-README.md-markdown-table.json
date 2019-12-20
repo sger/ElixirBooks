@@ -1,5 +1,5 @@
 {
   "error": true,
   "title": "Found 2 link issues",
-  "message": "#### Link issues by [`awesome_bot`](https://github.com/dkhamsing/awesome_bot)\n\n  Line | Status | Link\n| ---: | :----: | --- |\n34 | Dupe | http://elixirschool.com/ \n246 | Dupe | https://creativecommons.org/licenses/by/4.0/ \n"
+  "message": "#### Link issues by [`awesome_bot`](https://github.com/dkhamsing/awesome_bot)\n\n  Line | Status | Link\n| ---: | :----: | --- |\n34 | Dupe | http://elixirschool.com/ \n252 | Dupe | https://creativecommons.org/licenses/by/4.0/ \n"
 }
