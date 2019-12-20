@@ -13,35 +13,11 @@ Contents
 **Starter Books**
 ----
 
-### [Getting Started](http://elixir-lang.org/getting-started/introduction.html) *Free*
-
-<img src="http://elixir-lang.org/images/logo/logo.png" width="180px" title="Elixir logo" />
-
-Official Elixir starting guide that will take you through the language foundations. You will also explore how to build projects with Mix and OTP, and it will introduce you to more advanvced techniques suchs as meta-programming.
-
 ### [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
 
 <img src="https://covers.oreillystatic.com/images/9781680502527/cat.gif" width="180px" title="Elixir logo" />
 
 Adoption is more than programming. Elixir is an exciting new language, but to successfully get your application from start to finish, you’re going to need to know more than just the language. You need the case studies and strategies in this book. Learn the best practices for the whole life of your application, from design and team-building, to managing stakeholders, to deployment and monitoring. Go beyond the syntax and the tools to learn the techniques you need to develop your Elixir application from concept to production.
-
-### [Elixir School](http://elixirschool.com/) *Free*
-
-<img src="http://elixir-lang.org/images/learning/elixir-school.jpg" width="120px"/>
-
-Elixir-School is an open and community driven effort inspired by Twitter’s Scala School. The site’s content consists of peer-reviewed lessons on various Elixir topics that range in difficulty. The lessons are currently available in over 10 languages to help make programming Elixir more accessible to non-English speakers.
-
-### [Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do)
-
-<img src="http://akamaicovers.oreilly.com/images/0636920030584/cat.gif" width="120px"/>
-
-Elixir is an excellent language if you want to learn about functional programming, and with this hands-on introduction, you’ll discover just how powerful and fun Elixir can be. This language combines the robust functional programming of Erlang with a syntax similar to Ruby, and includes powerful features for metaprogramming.
-
-### [Études for Elixir](https://startlearningelixir.com/r/etudes-for-elixir) *Free*
-
-<img src="http://orm-other.s3.amazonaws.com/elixir_etudes_splash/cover.jpg" width="120px"/>
-
-In this book, you will find descriptions of programs that you can write in Elixir. The programs will usually be short, and each one has been designed to provide practice material for a particular Elixir programming concept. These programs have not been designed to be of considerable difficulty, though they may ask you to stretch a bit beyond the immediate material and examples that you find in the book Introducing Elixir.
 
 ### [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook)
 
@@ -55,11 +31,47 @@ This book is a set of recipes grouped by topic that acts as a good reference to 
 
 Elixir in Action teaches you how to solve practical problems of scalability, concurrency, fault tolerance, and high availability using Elixir. You'll start with the language, learning basic constructs and building blocks. Then, you'll learn to think about problems using Elixir's functional programming mindset. With that solid foundation, you'll confidently explore Elixir's seamless integration with BEAM and Erlang's powerful OTP framework of battle-tested abstractions you can use immediately. Finally, the book provides guidance on how to distribute a system over multiple machines and control it in production.
 
-### [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
+### [Elixir School](http://elixirschool.com/) *Free*
 
-<img src="https://images.manning.com/255/340/resize/book/2/cf70537-0068-4d76-b254-3082c3bc12a3/TanWeiHao_final.png" width="120px"/>
+<img src="http://elixir-lang.org/images/learning/elixir-school.jpg" width="120px"/>
 
-The Little Elixir & OTP Guidebook gets you started programming applications with Elixir and OTP. You begin with a quick overview of the Elixir language syntax, along with just enough functional programming to use it effectively. Then, you'll dive straight into OTP and learn how it helps you build scalable, fault-tolerant and distributed applications through several fun examples. Come rediscover the joy of programming with Elixir and remember how it feels like to be a beginner again.
+Elixir-School is an open and community driven effort inspired by Twitter’s Scala School. The site’s content consists of peer-reviewed lessons on various Elixir topics that range in difficulty. The lessons are currently available in over 10 languages to help make programming Elixir more accessible to non-English speakers.
+
+### [Elixir succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) *Free* 
+
+<img src="https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/elixir-succinctly.png" width="120px"/>
+
+This is a introductionary book about Elixir and OTP, written to go straight to the point. Almost 100 pages to learn the language and the platform.
+
+### [Études for Elixir](https://startlearningelixir.com/r/etudes-for-elixir) *Free*
+
+<img src="http://orm-other.s3.amazonaws.com/elixir_etudes_splash/cover.jpg" width="120px"/>
+
+In this book, you will find descriptions of programs that you can write in Elixir. The programs will usually be short, and each one has been designed to provide practice material for a particular Elixir programming concept. These programs have not been designed to be of considerable difficulty, though they may ask you to stretch a bit beyond the immediate material and examples that you find in the book Introducing Elixir.
+
+### [Getting Started](http://elixir-lang.org/getting-started/introduction.html) *Free*
+
+<img src="http://elixir-lang.org/images/logo/logo.png" width="180px" title="Elixir logo" />
+
+Official Elixir starting guide that will take you through the language foundations. You will also explore how to build projects with Mix and OTP, and it will introduce you to more advanvced techniques suchs as meta-programming.
+
+### [Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do)
+
+<img src="http://akamaicovers.oreilly.com/images/0636920030584/cat.gif" width="120px"/>
+
+Elixir is an excellent language if you want to learn about functional programming, and with this hands-on introduction, you’ll discover just how powerful and fun Elixir can be. This language combines the robust functional programming of Erlang with a syntax similar to Ruby, and includes powerful features for metaprogramming.
+
+### [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)
+
+<img src="http://t3.gstatic.com/images?q=tbn:ANd9GcSKqtSJPiXGRxX140Y-BAXI7Bt7ja9965hL_Xo4CVVBbrVNOlbm" width="120px"/>
+
+Elixir’s straightforward syntax and this guided tour give you a clean, simple path to learn modern functional programming techniques. No previous functional programming experience required! This book walks you through the right concepts at the right pace, as you explore immutable values and explicit data transformation, functions, modules, recursive functions, pattern matching, high-order functions, polymorphism, and failure handling, all while avoiding side effects.
+
+### [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com)
+
+<img src="https://www.nostarch.com/sites/default/files/imagecache/product_main_page/erlang_newsmall.png" width="120px"/>
+
+Hey there! This is Learn You Some Erlang for great good! This book is for you if you’ve got some programming experience and if you’re not too familiar with functional programming. It can still be useful if you’re too good for that, as we progressively go into more and more advanced topics.
 
 ### [Learning Elixir](https://www.packtpub.com/application-development/learning-elixir)
 
@@ -71,19 +83,7 @@ Elixir, based on Erlang’s virtual machine and ecosystem, makes it easier to ac
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/4181m33RmQL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
-> This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond. Explore functional programming without the academic overtones (tell me about monads just one more time). Create concurrent applications, but get them right without all the locking and consistency headaches. Meet Elixir, a modern, functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. Maybe the time is right for the Next Big Thing. Maybe it’s Elixir.
-
-### [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com)
-
-<img src="https://www.nostarch.com/sites/default/files/imagecache/product_main_page/erlang_newsmall.png" width="120px"/>
-
-Hey there! This is Learn You Some Erlang for great good! This book is for you if you’ve got some programming experience and if you’re not too familiar with functional programming. It can still be useful if you’re too good for that, as we progressively go into more and more advanced topics.
-
-### [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)
-
-<img src="http://t3.gstatic.com/images?q=tbn:ANd9GcSKqtSJPiXGRxX140Y-BAXI7Bt7ja9965hL_Xo4CVVBbrVNOlbm" width="120px"/>
-
-Elixir’s straightforward syntax and this guided tour give you a clean, simple path to learn modern functional programming techniques. No previous functional programming experience required! This book walks you through the right concepts at the right pace, as you explore immutable values and explicit data transformation, functions, modules, recursive functions, pattern matching, high-order functions, polymorphism, and failure handling, all while avoiding side effects.
+This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond. Explore functional programming without the academic overtones (tell me about monads just one more time). Create concurrent applications, but get them right without all the locking and consistency headaches. Meet Elixir, a modern, functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. Maybe the time is right for the Next Big Thing. Maybe it’s Elixir.
 
 ### [Take Off With Elixir](https://startlearningelixir.com/r/take-off-with-elixir)
 
@@ -91,12 +91,11 @@ Elixir’s straightforward syntax and this guided tour give you a clean, simple 
 
 This isn’t your typical “let’s build a blog” situation. You’ll be working with me, the Dev Lead of the fictional Aerospace startup RED:4, as we dive into Elixir and conduct various scientific studies.
 
+### [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
 
-### [Elixir succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) *Free* 
+<img src="https://images.manning.com/255/340/resize/book/2/cf70537-0068-4d76-b254-3082c3bc12a3/TanWeiHao_final.png" width="120px"/>
 
-<img src="https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/elixir-succinctly.png" width="120px"/>
-
-This is a introductionary book about Elixir and OTP, written to go straight to the point. Almost 100 pages to learn the language and the platform.
+The Little Elixir & OTP Guidebook gets you started programming applications with Elixir and OTP. You begin with a quick overview of the Elixir language syntax, along with just enough functional programming to use it effectively. Then, you'll dive straight into OTP and learn how it helps you build scalable, fault-tolerant and distributed applications through several fun examples. Come rediscover the joy of programming with Elixir and remember how it feels like to be a beginner again.
 
 ### [The Ultimate Guide For Making the Jump To Elixir](https://www.amazon.com/Ultimate-Guide-Making-Jump-Elixir-ebook/dp/B07DH4G7X2)
 
@@ -108,17 +107,23 @@ Want to learn an up and coming functional programming language? Check out Elixir
 **Advanced Books**
 ---
 
+### [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51nY9nCe0jL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+
+Your domain is rich and interconnected, and your API should be too. Upgrade your web API to GraphQL, leveraging its flexible queries to empower your users, and its declarative structure to simplify your code. Absinthe is the GraphQL toolkit for Elixir, a functional programming language designed to enable massive concurrency atop robust application architectures. Written by the creators of Absinthe, this book will help you take full advantage of these two groundbreaking technologies. Build your own flexible, high-performance APIs using step-by-step guidance and expert advice you won’t find anywhere else.s
+
 ### [Designing Elixir Systems with OTP](https://pragprog.com/book/jgotp/designing-elixir-systems-with-otp)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41p39zvPnTL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
 You know how to code in Elixir; now learn to think in it. Learn to design libraries with intelligent layers that shape the right data structures, flow from one function into the next,and present the right APIs. Embrace the same OTP that’s kept our telephone systems reliable and fast for over 30 years. Move beyond understanding the OTP functions to knowing what’s happening under the hood, and why that matters. Using that knowledge, instinctively know how to design systems that deliver fast and resilient services to your users, all with an Elixir focus.
 
-### [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
+### [Designing for Scalability with Erlang/OTP](http://shop.oreilly.com/product/0636920024149.do)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51nY9nCe0jL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+<img src="http://akamaicovers.oreilly.com/images/0636920024149/lrg.jpg" width="120px"/>
 
-Your domain is rich and interconnected, and your API should be too. Upgrade your web API to GraphQL, leveraging its flexible queries to empower your users, and its declarative structure to simplify your code. Absinthe is the GraphQL toolkit for Elixir, a functional programming language designed to enable massive concurrency atop robust application architectures. Written by the creators of Absinthe, this book will help you take full advantage of these two groundbreaking technologies. Build your own flexible, high-performance APIs using step-by-step guidance and expert advice you won’t find anywhere else.
+If you need to build a scalable, fault tolerant system with requirements for high availability, discover why the Erlang/OTP platform stands out for the breadth, depth, and consistency of its features. This hands-on guide demonstrates how to use the Erlang programming language and its OTP framework of reusable libraries, tools, and design principles to develop complex commercial-grade systems that simply cannot fail.
 
 ### [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir)
 
@@ -126,11 +131,11 @@ Your domain is rich and interconnected, and your API should be too. Upgrade your
 
 Write code that writes code with Elixir macros. Macros make metaprogramming possible and define the language itself. In this book, you’ll learn how to use macros to extend the language with fast, maintainable code and share functionality in ways you never thought possible. You’ll discover how to extend Elixir with your own first-class features, optimize performance, and create domain-specific languages.
 
-### [Designing for Scalability with Erlang/OTP](http://shop.oreilly.com/product/0636920024149.do)
+### [Erlang In Anger](http://www.erlang-in-anger.com/)
 
-<img src="http://akamaicovers.oreilly.com/images/0636920024149/lrg.jpg" width="120px"/>
+<img src="https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/book-cover.png" width="120px"/>
 
-If you need to build a scalable, fault tolerant system with requirements for high availability, discover why the Erlang/OTP platform stands out for the breadth, depth, and consistency of its features. This hands-on guide demonstrates how to use the Erlang programming language and its OTP framework of reusable libraries, tools, and design principles to develop complex commercial-grade systems that simply cannot fail.
+This book intends to be a little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang.
 
 ### [Erlang and OTP in Action](https://www.manning.com/books/erlang-and-otp-in-action)
 
@@ -143,12 +148,6 @@ Erlang and OTP in Action teaches you the concepts of concurrent programming and 
 <img src="http://ecx.images-amazon.com/images/I/41IbWEBsjbL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
 A multi-user game, web site, cloud application, or networked database can have thousands of users all interacting at the same time. You need a powerful, industrial-strength tool to handle the really hard problems inherent in parallel, concurrent environments. You need Erlang. In this second edition of the bestselling Programming Erlang, you’ll learn how to write parallel programs that scale effortlessly on multicore systems.
-
-### [Erlang In Anger](http://www.erlang-in-anger.com/)
-
-<img src="https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/book-cover.png" width="120px"/>
-
-This book intends to be a little guide about how to be the Erlang medic in a time of war. It is first and foremost a collection of tips and tricks to help understand where failures come from, and a dictionary of different code snippets and practices that helped developers debug production systems that were built in Erlang.
 
 ### [Building Scalable Applications with Erlang](https://www.amazon.com/Building-Scalable-Applications-Developers-Library/dp/0321636465?ie=UTF8&*Version*=1&*entries*=0)
 
