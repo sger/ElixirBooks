@@ -174,7 +174,7 @@ A multi-user game, web site, cloud application, or networked database can have t
 
 Property-based testing helps you create better, more solid tests with little code. By using the PropEr framework in both Erlang and Elixir, this book teaches you how to automatically generate test cases, test stateful programs, and change how you design your software for more principled and reliable approaches. You will be able to better explore the problem space, validate the assumptions you make when coming up with program behavior, and expose unexpected weaknesses in your design. PropEr will even show you how to reproduce the bugs it found. With this book, you will be writing efficient property-based tests in no time.
 
-###[Hands-on Elixir & OTP: Cryptocurrency trading bot](https://www.elixircryptobot.com) *Free*
+### [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://www.elixircryptobot.com) *Free*
 
 <img src="https://github.com/frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot/raw/main/images/cover.png" width="120px"/>
 
