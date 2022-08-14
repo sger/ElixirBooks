@@ -95,9 +95,9 @@ Want to learn an up and coming functional programming language? Check out Elixir
 **Advanced Books**
 ---
 
-### [Building Scalable Applications with Erlang](https://www.amazon.co.uk/Building-Scalable-Applications-Developers-Library/dp/0321636465)
+### [Building Scalable Applications with Erlang](https://www.abebooks.com/9780321636461/Building-Scalable-Applications-Erlang-Developers-0321636465/plp)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51vXUFnH%2B6L._SX384_BO1,204,203,200_.jpg" width="120px"/>
+<img src="https://pictures.abebooks.com/isbn/9780321636461-us.jpg" width="120px"/>
 
 Erlang is emerging as a leading language for concurrent programming in mission-critical enterprise environments where applications must deliver exceptional reliability, availability, and scalability. It’s already used by organizations ranging from Facebook to Amazon, and many others are adopting or considering it.
 As a functional language, however, Erlang is radically different from conventional object-oriented languages like C++ and Java. This book quickly brings experienced object-oriented programmers up to speed with both Erlang and the principles of functional programming. Jerry Jackson thoroughly explains Erlang’s key concepts, principles, and features, bridging the conceptual gaps that often frustrate object developers. Next, he shows how to use Erlang to build massively-scalable real-world systems with up to “nine nines” availability: that is, up to 99.9999999% uptime.
