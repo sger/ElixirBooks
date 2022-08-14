@@ -1,4 +1,4 @@
-# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Elixir Books [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Contents
 ====
 * [Books](#books)
@@ -13,13 +13,13 @@ Contents
 **Starter Books**
 ----
 
-### [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
+### [Adopting Elixir](https://pragprog.com/titles/tvmelixir/adopting-elixir/)
 
 <img src="https://covers.oreillystatic.com/images/9781680502527/cat.gif" width="180px" title="Elixir logo" />
 
 Adoption is more than programming. Elixir is an exciting new language, but to successfully get your application from start to finish, you’re going to need to know more than just the language. You need the case studies and strategies in this book. Learn the best practices for the whole life of your application, from design and team-building, to managing stakeholders, to deployment and monitoring. Go beyond the syntax and the tools to learn the techniques you need to develop your Elixir application from concept to production.
 
-### [Elixir Cookbook](https://www.packtpub.com/application-development/elixir-cookbook)
+### [Elixir Cookbook](https://www.packtpub.com/product/elixir-cookbook/9781784397517)
 
 <img src="https://m.media-amazon.com/images/I/81-ZwJtxOJL._AC_UY436_QL65_ML3_.jpg" width="120px"/>
 
@@ -31,13 +31,13 @@ This book is a set of recipes grouped by topic that acts as a good reference to 
 
 Elixir in Action teaches you how to solve practical problems of scalability, concurrency, fault tolerance, and high availability using Elixir. You'll start with the language, learning basic constructs and building blocks. Then, you'll learn to think about problems using Elixir's functional programming mindset. With that solid foundation, you'll confidently explore Elixir's seamless integration with BEAM and Erlang's powerful OTP framework of battle-tested abstractions you can use immediately. Finally, the book provides guidance on how to distribute a system over multiple machines and control it in production.
 
-### [Elixir School](http://elixirschool.com/) *Free*
+### [Elixir School](https://elixirschool.com/en) *Free*
 
 <img src="https://elixir-lang.org/images/learning/elixir-school.jpg" width="120px"/>
 
 Elixir-School is an open and community driven effort inspired by Twitter’s Scala School. The site’s content consists of peer-reviewed lessons on various Elixir topics that range in difficulty. The lessons are currently available in over 10 languages to help make programming Elixir more accessible to non-English speakers.
 
-### [Elixir succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) *Free* 
+### [Elixir succinctly](https://www.syncfusion.com/succinctly-free-ebooks/elixir-succinctly) *Free* 
 
 <img src="https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/elixir-succinctly.png" width="120px"/>
 
@@ -55,13 +55,13 @@ In this book, you will find descriptions of programs that you can write in Elixi
 
 Official Elixir starting guide that will take you through the language foundations. You will also explore how to build projects with Mix and OTP, and it will introduce you to more advanvced techniques suchs as meta-programming.
 
-### [Introducing Elixir](http://shop.oreilly.com/product/0636920030584.do)
+### [Introducing Elixir](https://www.oreilly.com/library/view/~/9781449369989/)
 
 <img src="http://akamaicovers.oreilly.com/images/0636920030584/cat.gif" width="120px"/>
 
 Elixir is an excellent language if you want to learn about functional programming, and with this hands-on introduction, you’ll discover just how powerful and fun Elixir can be. This language combines the robust functional programming of Erlang with a syntax similar to Ruby, and includes powerful features for metaprogramming.
 
-### [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)
+### [Learn Functional Programming with Elixir](https://pragprog.com/search/?q=learn-functional-programming-with-elixir)
 
 <img src="http://t3.gstatic.com/images?q=tbn:ANd9GcSKqtSJPiXGRxX140Y-BAXI7Bt7ja9965hL_Xo4CVVBbrVNOlbm" width="120px"/>
 
@@ -245,14 +245,14 @@ Give users the real-time experience they expect, by using Elixir and Phoenix Cha
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
 * [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
-* [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
-* [Elixir School](http://elixirschool.com/)
+* [Discover Elixir & Phoenix](https://ludu.co/course/discover-elixir-phoenix)
+* [Elixir School](https://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
-* [Frathon's YouTube Channel](https://youtube.com/c/frathon)
+* [Frathon's YouTube Channel](https://www.youtube.com/c/frathon)
 
 Contributing
 ====
-Your contributions are always welcome, just follow [the rules](https://github.com/sger/ElixirBooks/blob/master/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules](https://github.com/sger/ElixirBooks/blob/main/CONTRIBUTING.md)!
 
 License
 ====
