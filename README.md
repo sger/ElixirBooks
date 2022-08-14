@@ -128,13 +128,13 @@ You know how to code in Elixir; now learn to think in it. Learn to design librar
 
 ### [Designing for Scalability with Erlang/OTP](http://shop.oreilly.com/product/0636920024149.do)
 
-<img src="http://akamaicovers.oreilly.com/images/0636920024149/lrg.jpg" width="120px"/>
+<img src="https://learning.oreilly.com/library/cover/9781449361556/250w/" width="120px"/>
 
 If you need to build a scalable, fault tolerant system with requirements for high availability, discover why the Erlang/OTP platform stands out for the breadth, depth, and consistency of its features. This hands-on guide demonstrates how to use the Erlang programming language and its OTP framework of reusable libraries, tools, and design principles to develop complex commercial-grade systems that simply cannot fail.
 
 ### [Erlang and Elixir for Imperative Programmers](https://www.springer.com/la/book/9781484223932)
 
-<img src="https://images.springer.com/sgw/books/medium/9781484223932.jpg" width="120px"/>
+<img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-2394-9?as=webp" width="120px"/>
 
 Learn and understand Erlang and Elixir and develop a working knowledge of the concepts of functional programming that underpin them. This book takes the author’s experience of taking on a project that required functional programming and real-time systems, breaks it down, and organizes it. You will get the necessary knowledge about differences to the languages you know, where to start, and where to go next.
 
