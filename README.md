@@ -207,7 +207,7 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 
 Phoenix is a modern web framework built for the Elixir programming language. Elegant, fault-tolerant, and performant, Phoenix is as easy to use as Rails and as rock-solid as Elixir's Erlang-based foundation. Phoenix in Action builds on your existing web dev skills, teaching you the unique benefits of Phoenix along with just enough Elixir to get the job done.
 
-### [Phoenix Web Development](https://www.packtpub.com/web-development/phoenix-web-development)
+### [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/titles/lhelph/functional-web-development-with-elixir-otp-and-phoenix/)
 
 <img src="https://m.media-amazon.com/images/I/61ZnmYx28ML._AC_UY218_SEARCH213888_ML3_.jpg" width="120px"/>
 
@@ -215,19 +215,19 @@ Phoenix is a modern web development framework that is used to build API’s and 
 
 This book covers the basics of the Phoenix web framework, showing you how to build a community voting application, and is divided into three parts. In the first part, you will be introduced to Phoenix and Elixir and understand the core terminologies that are used to describe them. You will also learn to build controller pages, store and retrieve data, add users to your app pages and protect your database. In the second section you will be able to reinforce your knowledge of architecting real time applications in phoenix and not only debug these applications but also diagnose issues in them. In the third and final section you will have the complete understanding of deploying and running the phoenix application and should be comfortable to make your first application release.
 
-### [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto)
+### [Programming Ecto](https://pragprog.com/titles/wmecto/programming-ecto/)
 
 <img src="https://m.media-amazon.com/images/I/81U41AFtHeL._AC_UY218_SEARCH213888_ML3_.jpg" width="120px"/>
 
 Languages may come and go, but the relational database endures. Learn how to use Ecto, the premier database library for Elixir, to connect your Elixir and Phoenix apps to databases. Get a firm handle on Ecto fundamentals with a module-by-module tour of the critical parts of Ecto. Then move on to more advanced topics and advice on best practices with a series of recipes that provide clear,step-by-step instructions on scenarios commonly encountered by app developers. Co-authored by the creator of Ecto, this title provides all the essentials you need to use Ecto effectively.
 
-### [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
+### [Programming Phoenix](https://pragprog.com/titles/phoenix14/programming-phoenix-1-4/)
 
 <img src="http://ecx.images-amazon.com/images/I/41pPn50VnvL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
 Don’t accept the compromise between fast and beautiful: you can have it all. Phoenix creator Chris McCord, Elixir creator José Valim, and award-winning author Bruce Tate walk you through building an application that’s fast and reliable. At every step, you’ll learn from the Phoenix creators not just what to do, but why. Packed with insider insights, this definitive guide will be your constant companion in your journey from Phoenix novice to expert, as you build the next generation of web applications.
 
-### [Real-Time Phoenix](https://pragprog.com/book/sbsockets/real-time-phoenix)
+### [Real-Time Phoenix](https://pragprog.com/titles/sbsockets/real-time-phoenix/)
 
 <img src="https://m.media-amazon.com/images/I/81zoKXoKFbL._AC_UY436_QL65_ML3_.jpg" width="120px"/>
 
@@ -240,15 +240,13 @@ Give users the real-time experience they expect, by using Elixir and Phoenix Cha
 * [LearnElixir.tv](https://www.learnelixir.tv/)
 * [Reddit](https://www.reddit.com/r/elixir/)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/elixir)
-* [Exercism.io](https://exercism.io/tracks/elixir)
-* [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
+* [Exercism.io](https://exercism.org/tracks/elixir)
+* [Elixir Radar Newsletter](https://elixir-radar.com)
 * [Elixir Koans](http://elixirkoans.io)
-* [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
 * [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
-* [Discover Elixir & Phoenix](https://ludu.co/course/discover-elixir-phoenix)
-* [Elixir School](https://elixirschool.com/)
+* [Discover Elixir & Phoenix](https://ludu.co/course/discover-elixir-phoenix/)
+* [Elixir School](https://elixirschool.com/en)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
-* [Frathon's YouTube Channel](https://www.youtube.com/c/frathon)
 
 Contributing
 ====
