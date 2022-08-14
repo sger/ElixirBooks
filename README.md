@@ -213,6 +213,26 @@ Don’t accept the compromise between fast and beautiful: you can have it all. P
 
 Give users the real-time experience they expect, by using Elixir and Phoenix Channels to build applications that instantly react to changes and reflect the application’s true state. Learn how Elixir and Phoenix make it easy and enjoyable to create real-time applications that scale to a large number of users. Apply system design and development best practices to create applications that are easy to maintain. Gain confidence by learning how to break your applications before your users do. Deploy applications with minimized resource use and maximized performance.
 
+### [Testing Elixir](https://pragprog.com/titles/lmelixir/testing-elixir/)
+
+<img src="https://pragprog.com/titles/lmelixir/testing-elixir/lmelixir-500.jpg" width="120px"/>
+
+Elixir offers new paradigms, and challenges you to test in unconventional ways. Start with ExUnit: almost everything you need to write tests covering all levels of detail, from unit to integration, but only if you know how to use it to the fullest—we’ll show you how. Explore testing Elixir-specific challenges such as OTP-based modules, asynchronous code, Ecto-based applications, and Phoenix applications. Explore new tools like Mox for mocks and StreamData for property-based testing. Armed with this knowledge, you can create test suites that add value to your production cycle and guard you from regressions.
+
+### [Exploring Graphs with Elixir](https://pragprog.com/titles/thgraphs/exploring-graphs-with-elixir/)
+
+<img src="https://pragprog.com/titles/thgraphs/exploring-graphs-with-elixir/thgraphs-beta-500.jpg" width="120px"/>
+
+Data is everywhere—it’s just not very well connected, which makes it super hard to relate dataset to dataset. Using graphs as the underlying glue, you can readily join data together and create navigation paths across diverse sets of data. Add Elixir, with its awesome power of concurrency, and you’ll soon be mastering data networks. Learn how different graph models can be accessed and used from within Elixir and how you can build a robust semantics overlay on top of graph data structures. We’ll start from the basics and examine the main graph paradigms. Get ready to embrace the world of connected data!
+
+### [Genetic Algorithms in Elixir](https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/)
+
+<img src="https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/smgaelixir-500.jpg" width="120px"/>
+
+From finance to artificial intelligence, genetic algorithms are a powerful tool with a wide array of applications. But you don’t need an exotic new language or framework to get started; you can learn about genetic algorithms in a language you’re already familiar with. Join us for an in-depth look at the algorithms, techniques, and methods that go into writing a genetic algorithm. From introductory problems to real-world applications, you’ll learn the underlying principles of problem solving using genetic algorithms.
+
+
+
 **Resources**
 ====
 * [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
