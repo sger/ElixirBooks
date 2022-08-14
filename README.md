@@ -231,7 +231,35 @@ Data is everywhere—it’s just not very well connected, which makes it super h
 
 From finance to artificial intelligence, genetic algorithms are a powerful tool with a wide array of applications. But you don’t need an exotic new language or framework to get started; you can learn about genetic algorithms in a language you’re already familiar with. Join us for an in-depth look at the algorithms, techniques, and methods that go into writing a genetic algorithm. From introductory problems to real-world applications, you’ll learn the underlying principles of problem solving using genetic algorithms.
 
+### [Programmer Passport: Elixir](https://pragprog.com/titles/passelixir/programmer-passport-elixir/)
 
+<img src="https://pragprog.com/titles/passelixir/programmer-passport-elixir/passelixir-500.jpg" width="120px"/>
+
+Elixir is a functional language that crosses many boundaries. With a syntax borrowing heavily from Ruby, a runtime that is on the Erlang BEAM, a macro system like that in Lisp, and a streaming library like you might find in Haskell, Elixir takes the best features from many environments. Elixir borrows from Erlang’s “Let It Crash” philosophy, and adds significant improvements with structs, first-class hygienic macros, and abstractions such as protocols. Many of these ideas were borrowed from other communities, and they make a big difference in language adoption. This book gives you a quick guided tour through the fascinating world of Elixir!
+
+### [Build a Binary Clock with Elixir and Nerves](https://pragprog.com/titles/thnerves/build-a-binary-clock-with-elixir-and-nerves/)
+
+<img src="https://pragprog.com/titles/thnerves/build-a-binary-clock-with-elixir-and-nerves/thnerves-500.jpg" width="120px"/>
+
+Want to get better at coding Elixir? Write a hardware project with Nerves. As you build this binary clock, you’ll build in resiliency using OTP, the same libraries powering many commercial phone switches. You’ll attack complexity the way the experts do, using a layered approach. You’ll sharpen your debugging skills by taking small, easily verified steps toward your goal. When you’re done, you’ll have a working binary clock and a good appreciation of the work that goes into a hardware system. You’ll also be able to apply that understanding to every new line of Elixir you write.
+
+### [Build a Weather Station with Elixir and Nerves](https://pragprog.com/titles/passweather/build-a-weather-station-with-elixir-and-nerves/)
+
+<img src="https://pragprog.com/titles/passweather/build-a-weather-station-with-elixir-and-nerves/passweather-500.jpg" width="120px"/>
+
+The Elixir programming language has become a go-to tool for creating reliable, fault-tolerant, and robust server-side applications. Thanks to Nerves, those same exact benefits can be realized in embedded applications. This book will teach you how to structure, build, and deploy production grade Nerves applications to network-enabled devices. The weather station sensor hub project that you will be embarking upon will show you how to create a full stack IoT solution in record time. You will build everything from the embedded Nerves device to the Phoenix backend and even the Grafana time-series data visualizations.
+
+### [Concurrent Data Processing in Elixir](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/)
+
+<img src="https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/sgdpelixir-500.jpg" width="120px"/>
+
+Learn different ways of writing concurrent code in Elixir and increase your application’s performance, without sacrificing scalability or fault-tolerance. Most projects benefit from running background tasks and processing data concurrently, but the world of OTP and various libraries can be challenging. Which Supervisor and what strategy to use? What about GenServer? Maybe you need back-pressure, but is GenStage, Flow, or Broadway a better choice? You will learn everything you need to know to answer these questions, start building highly concurrent applications in no time, and write code that’s not only fast, but also resilient to errors and easy to scale.
+
+### [Programming Phoenix LiveView](https://pragprog.com/titles/liveview/programming-phoenix-liveview/)
+
+<img src="https://pragprog.com/titles/liveview/programming-phoenix-liveview/liveview-beta-500.jpg" width="120px"/>
+
+The days of the traditional request-response web application are long gone, but you don’t have to wade through oceans of JavaScript to build the interactive applications today’s users crave. The innovative Phoenix LiveView library empowers you to build applications that are fast and highly interactive, without sacrificing reliability. This definitive guide to LiveView isn’t a reference manual. Learn to think in LiveView. Write your code layer by layer, the way the experts do. Explore techniques with experienced teachers to get the best possible performance.
 
 **Resources**
 ====
