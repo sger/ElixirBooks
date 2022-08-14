@@ -1,4 +1,4 @@
-# Awesome Elixir Books [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Elixir Books [![Build Status](https://github.com/sger/ElixirBooks/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/sger/ElixirBooks/actions/workflows/main.yml) [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Contents
 ====
 * [Books](#books)
